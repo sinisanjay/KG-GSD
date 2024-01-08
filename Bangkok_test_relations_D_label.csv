@@ -1,0 +1,19 @@
+,subj,prop,obj,defdomain,defrange,label,remark
+0,Bangkok,location,Chao_Phraya_River,None,Place,1,
+1,Bangkok,southWestPlace,Chao_Phraya_River,Place,Place,0,WP-DR
+2,Bangkok,district,Thailand,Place,PopulatedPlace,1,
+3,Bangkok,sovereignCountry,Thailand,Place,PopulatedPlace,0,WP-DR
+4,Bangkok,created,Indoor_Stadium_Huamark,Person,Work,1,
+5,Bangkok,astrologicalSign,Indoor_Stadium_Huamark,Person,None,0,WP-D
+6,Bangkok,language,Phuan_language,None,Language,1,
+7,Bangkok,language,Squeak,None,Language,0,WE-T
+8,Bangkok,foundedBy,Rama_I,None,Agent,1,
+9,Bangkok,foundedBy,Activision,None,Agent,0,WE-T
+10,Bangkok,created,Rajadamnern_Stadium,Person,Work,1,
+11,Bangkok,billed,Rajadamnern_Stadium,Wrestler,PopulatedPlace,0,WP
+12,Bangkok,language,Thai_Sign_Language,None,Language,1,
+13,Bangkok,agglomeration,Thai_Sign_Language,PopulatedPlace,Agglomeration,0,WP
+14,Bangkok,country,Thailand,None,Country,1,
+15,Bangkok,country,New_wave_music ,None,Country,0,WE
+16,Bangkok,language,Blang_language,None,Language,1,
+17,Bangkok,language,Melody_Radio_(Bulgaria),None,Language,0,WE
