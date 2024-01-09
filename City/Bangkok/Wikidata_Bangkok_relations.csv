@@ -1,0 +1,26 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q1861,country,Thailand,Q869,P17,"['big city' 'capital city' 'city'
+ 'first-level administrative country subdivision' 'largest city'
+ 'megacity' 'million city' 'special administrative area of Thailand']",['constitutional monarchy' 'country' 'sovereign state']
+1,Q1861,located in the administrative territorial entity,Thailand,Q869,P131,,
+2,Q1861,founded by,Rama I,Q310992,P112,"['big city' 'capital city' 'city'
+ 'first-level administrative country subdivision' 'largest city'
+ 'megacity' 'million city' 'special administrative area of Thailand']",['human']
+3,Q1861,located in or next to body of water,Chao Phraya River,Q118850,P206,"['big city' 'capital city' 'city'
+ 'first-level administrative country subdivision' 'largest city'
+ 'megacity' 'million city' 'special administrative area of Thailand']",['river']
+4,Q1861,owner of,Rajadamnern Stadium,Q2631915,P1830,"['big city' 'capital city' 'city'
+ 'first-level administrative country subdivision' 'largest city'
+ 'megacity' 'million city' 'special administrative area of Thailand']",['stadium']
+5,Q1861,owner of,Indoor Stadium Huamark,Q4923737,P1830,"['big city' 'capital city' 'city'
+ 'first-level administrative country subdivision' 'largest city'
+ 'megacity' 'million city' 'special administrative area of Thailand']",['sports venue']
+6,Q1861,language used,Phuan,Q3915665,P2936,"['big city' 'capital city' 'city'
+ 'first-level administrative country subdivision' 'largest city'
+ 'megacity' 'million city' 'special administrative area of Thailand']",['language' 'modern language']
+7,Q1861,language used,Blang,Q4925096,P2936,"['big city' 'capital city' 'city'
+ 'first-level administrative country subdivision' 'largest city'
+ 'megacity' 'million city' 'special administrative area of Thailand']",['language' 'modern language']
+8,Q1861,language used,Thai Sign Language,Q7709156,P2936,"['big city' 'capital city' 'city'
+ 'first-level administrative country subdivision' 'largest city'
+ 'megacity' 'million city' 'special administrative area of Thailand']",['language' 'modern language' 'sign language']

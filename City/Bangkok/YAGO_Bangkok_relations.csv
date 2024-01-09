@@ -1,0 +1,10 @@
+,subj,prop,obj,defdomain,defrange
+0,Bangkok,addressCountry,Thailand,,
+1,Bangkok,containedInPlace,Thailand,Place,Place
+2,Bangkok,founder,Rama_I,,
+3,Bangkok,location,Chao_Phraya_River,,
+4,Bangkok,owns,Rajadamnern_Stadium,,
+5,Bangkok,owns,Indoor_Stadium_Huamark,,
+6,Bangkok,inLanguage,Phuan_language,,
+7,Bangkok,inLanguage,Blang_language,,
+8,Bangkok,inLanguage,Thai_Sign_Language,,

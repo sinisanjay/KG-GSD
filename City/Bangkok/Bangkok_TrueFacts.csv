@@ -1,0 +1,10 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Bangkok,country,Thailand,None,Country,Bangkok,addressCountry,Thailand,Q1861,country,Thailand,Q869,P17
+1,Bangkok,district,Thailand,Place,PopulatedPlace,Bangkok,containedInPlace,Thailand,Q1861,located in the administrative territorial entity,Thailand,Q869,P131
+2,Bangkok,foundedBy,Rama_I,None,Agent,Bangkok,founder,Rama_I,Q1861,founded by,Rama I,Q310992,P112
+3,Bangkok,location,Chao_Phraya_River,None,Place,Bangkok,location,Chao_Phraya_River,Q1861,located in or next to body of water,Chao Phraya River,Q118850,P206
+4,Bangkok,created,Rajadamnern_Stadium,Person,Work,Bangkok,owns,Rajadamnern_Stadium,Q1861,owner of,Rajadamnern Stadium,Q2631915,P1830
+5,Bangkok,created,Indoor_Stadium_Huamark,Person,Work,Bangkok,owns,Indoor_Stadium_Huamark,Q1861,owner of,Indoor Stadium Huamark,Q4923737,P1830
+6,Bangkok,language,Phuan_language,None,Language,Bangkok,inLanguage,Phuan_language,Q1861,language used,Phuan,Q3915665,P2936
+7,Bangkok,language,Blang_language,None,Language,Bangkok,inLanguage,Blang_language,Q1861,language used,Blang,Q4925096,P2936
+8,Bangkok,language,Thai_Sign_Language,None,Language,Bangkok,inLanguage,Thai_Sign_Language,Q1861,language used,Thai Sign Language,Q7709156,P2936
