@@ -1,0 +1,14 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Ricky_Ponting,birthPlace,"Launceston,_Tasmania",Animal,Place,Ricky_Ponting,birthPlace,"Launceston,_Tasmania",Q472649,place of birth,Launceston,Q339527,P19
+1,Ricky_Ponting,birthPlace,Australia,Animal,Place,Ricky_Ponting,birthPlace,Australia,Q472649,place of birth,,Q408,P19
+2,Ricky_Ponting,country,Australia,None,Country,Ricky_Ponting,addressCountry,Australia,Q472649,country,,Q408,P17
+3,Ricky_Ponting,nationality,Australia,Person,Country,Ricky_Ponting,nationality,Australia,Q472649,country of citizenship,Australia,Q408,P27
+4,Ricky_Ponting,team,Australia_national_cricket_team,None,SportsTeam,Ricky_Ponting,memberOf,Australia_national_cricket_team,Q472649,member of sports team,Australia national cricket team,Q142555,P54
+5,Ricky_Ponting,team,Tasmania_cricket_team,None,SportsTeam,Ricky_Ponting,memberOf,Tasmania_cricket_team,Q472649,member of sports team,Tasmania cricket team,Q1133545,P54
+6,Ricky_Ponting,team,Kolkata_Knight_Riders,None,SportsTeam,Ricky_Ponting,memberOf,Kolkata_Knight_Riders,Q472649,member of sports team,Kolkata Knight Riders,Q1156894,P54
+7,Ricky_Ponting,team,Mumbai_Indians,None,SportsTeam,Ricky_Ponting,memberOf,Mumbai_Indians,Q472649,member of sports team,Mumbai Indians,Q1195237,P54
+8,Ricky_Ponting,team,Surrey_County_Cricket_Club,None,SportsTeam,Ricky_Ponting,memberOf,Surrey_County_Cricket_Club,Q472649,member of sports team,Surrey County Cricket Club,Q2725632,P54
+9,Ricky_Ponting,team,Somerset_County_Cricket_Club,None,SportsTeam,Ricky_Ponting,memberOf,Somerset_County_Cricket_Club,Q472649,member of sports team,Somerset County Cricket Club,Q3489807,P54
+10,Ricky_Ponting,team,Hobart_Hurricanes,None,SportsTeam,Ricky_Ponting,memberOf,Hobart_Hurricanes,Q472649,member of sports team,Hobart Hurricanes,Q5874717,P54
+11,Ricky_Ponting,team,Antigua_Hawksbills,None,SportsTeam,Ricky_Ponting,memberOf,Antigua_Hawksbills,Q472649,member of sports team,Antigua Hawksbills,Q15895666,P54
+12,Ricky_Ponting,award,Wisden_Cricketers_of_the_Year,None,Award,Ricky_Ponting,award,Wisden_Cricketers_of_the_Year,Q472649,award received,Wisden Cricketer of the Year,Q3569447,P166

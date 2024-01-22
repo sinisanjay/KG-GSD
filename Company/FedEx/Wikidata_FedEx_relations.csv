@@ -1,0 +1,14 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q459477,location,Memphis,Q16563,P276,[],[]
+1,Q459477,subsidiary,FedEx Ground,Q5439886,P355,['business' 'public company'],['business']
+2,Q459477,subsidiary,,Q459477,P355,,
+3,Q459477,subsidiary,FedEx Express,Q782557,P355,['business' 'public company'],['airline' 'cargo airline']
+4,Q459477,subsidiary,FedEx Office,Q474379,P355,['business' 'public company'],['business']
+5,Q459477,founded by,Frederick W. Smith,Q324086,P112,['business' 'public company'],['human']
+6,Q459477,location,United States of America,Q30,P276,[],[]
+7,Q459477,location of formation,Little Rock,Q33405,P740,['business' 'public company'],"['big city' 'city of the United States' 'county seat'
+ 'state or insular area capital of the United States']"
+8,Q459477,country,United States of America,Q30,P17,['business' 'public company'],"['constitutional republic' 'country' 'democratic republic'
+ 'federal republic' 'sovereign state' 'superpower']"
+9,Q459477,part of,Dow Jones Transportation Average,Q688712,P361,['business' 'public company'],['stock market index']
+10,Q459477,part of,S&P 100,Q1546793,P361,['business' 'public company'],['stock market index']

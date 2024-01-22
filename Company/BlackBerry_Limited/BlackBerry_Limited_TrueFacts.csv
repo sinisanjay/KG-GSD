@@ -1,0 +1,8 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,BlackBerry_Limited,locationCity,"Waterloo,_Ontario",Organisation,City,BlackBerry_Limited,location,"Waterloo,_Ontario",Q502121,location,Waterloo,Q639408,P276
+1,BlackBerry_Limited,locationCity,Ontario,Organisation,City,BlackBerry_Limited,location,Ontario,Q502121,location,,Q1904,P276
+2,BlackBerry_Limited,foundedBy,Mike_Lazaridis,None,Agent,BlackBerry_Limited,founder,Mike_Lazaridis,Q502121,founded by,Mike Lazaridis,Q1379779,P112
+3,BlackBerry_Limited,locationCountry,Canada,None,Country,BlackBerry_Limited,location,Canada,Q502121,location,Canada,Q16,P276
+4,BlackBerry_Limited,founders,Mike_Lazaridis,None,None,BlackBerry_Limited,founder,Mike_Lazaridis,Q502121,founded by,Mike Lazaridis,Q1379779,P112
+5,BlackBerry_Limited,foundationPlace,"Waterloo,_Ontario",Organisation,City,BlackBerry_Limited,foundingLocation,"Waterloo,_Ontario",Q502121,location of formation,Waterloo,Q639408,P740
+6,BlackBerry_Limited,country,Canada,None,Country,BlackBerry_Limited,addressCountry,Canada,Q502121,country,Canada,Q16,P17

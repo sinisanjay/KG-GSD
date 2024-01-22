@@ -1,0 +1,18 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Harvard_University,city,"Cambridge,_Massachusetts",None,City,Harvard_University,containedInPlace,"Cambridge,_Massachusetts",Q13371,located in the administrative territorial entity,,Q21713103,P131
+1,Harvard_University,city,"Cambridge,_Massachusetts",None,None,Harvard_University,containedInPlace,"Cambridge,_Massachusetts",Q13371,located in the administrative territorial entity,,Q21713103,P131
+2,Harvard_University,subsidiary,Center_for_Hellenic_Studies,Company,Company,Harvard_University,subOrganization,Center_for_Hellenic_Studies,Q13371,subsidiary,Center for Hellenic Studies,Q1053592,P355
+3,Harvard_University,subsidiary,Fairbank_Center_for_Chinese_Studies,Company,Company,Harvard_University,subOrganization,Fairbank_Center_for_Chinese_Studies,Q13371,subsidiary,Fairbank Center for Chinese Studies,Q5429991,P355
+4,Harvard_University,subsidiary,Harvard_Law_School,Company,Company,Harvard_University,subOrganization,Harvard_Law_School,Q13371,subsidiary,,Q18719675,P355
+5,Harvard_University,subsidiary,Harvard_Business_School,Company,Company,Harvard_University,subOrganization,Harvard_Business_School,Q13371,subsidiary,Harvard Business School,Q49126,P355
+6,Harvard_University,subsidiary,Harvard_University_Press,Company,Company,Harvard_University,subOrganization,Harvard_University_Press,Q13371,subsidiary,Harvard University Press,Q1587900,P355
+7,Harvard_University,subsidiary,Harvard_Graduate_School_of_Design,Company,Company,Harvard_University,subOrganization,Harvard_Graduate_School_of_Design,Q13371,subsidiary,Harvard Graduate School of Design,Q3128016,P355
+8,Harvard_University,subsidiary,Harvard_Medical_School,Company,Company,Harvard_University,subOrganization,Harvard_Medical_School,Q13371,subsidiary,Harvard Medical School,Q49121,P355
+9,Harvard_University,subsidiary,Dumbarton_Oaks,Company,Company,Harvard_University,subOrganization,Dumbarton_Oaks,Q13371,subsidiary,Dumbarton Oaks,Q1264942,P355
+10,Harvard_University,subsidiary,Harvard_University_endowment,Company,Company,Harvard_University,subOrganization,Harvard_University_endowment,Q13371,subsidiary,Harvard Management Company,Q5676489,P355
+11,Harvard_University,country,United_States,None,Country,Harvard_University,addressCountry,United_States,Q13371,country,United States of America,Q30,P17
+12,Harvard_University,foundedBy,Massachusetts_General_Court,None,Agent,Harvard_University,founder,Massachusetts_General_Court,Q13371,founded by,Massachusetts General Court,Q1453540,P112
+13,Harvard_University,subsidiary,Harvard_Law_School,Company,Company,Harvard_University,subOrganization,Harvard_Law_School,Q13371,subsidiary,Harvard Law School,Q49122,P355
+14,Harvard_University,subsidiary,Harvard_Museum_of_Natural_History,Company,Company,Harvard_University,subOrganization,Harvard_Museum_of_Natural_History,Q13371,subsidiary,Harvard Museum of Natural History,Q2001855,P355
+15,Harvard_University,subsidiary,Villa_I_Tatti,Company,Company,Harvard_University,subOrganization,Villa_I_Tatti,Q13371,subsidiary,Harvard University Center for Italian Renaissance Studies,Q3558578,P355
+16,Harvard_University,subsidiary,Harvard_Art_Museums,Company,Company,Harvard_University,subOrganization,Harvard_Art_Museums,Q13371,subsidiary,Harvard Art Museums,Q3783572,P355

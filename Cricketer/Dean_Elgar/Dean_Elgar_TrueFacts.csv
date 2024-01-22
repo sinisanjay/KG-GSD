@@ -1,0 +1,6 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Dean_Elgar,birthPlace,Welkom,Animal,Place,Dean_Elgar,birthPlace,Welkom,Q5246134,place of birth,Welkom,Q1015631,P19
+1,Dean_Elgar,nationality,South_Africa,Person,Country,Dean_Elgar,nationality,South_Africa,Q5246134,country of citizenship,South Africa,Q258,P27
+2,Dean_Elgar,team,South_Africa_national_cricket_team,None,SportsTeam,Dean_Elgar,memberOf,South_Africa_national_cricket_team,Q5246134,member of sports team,South Africa national cricket team,Q1423651,P54
+3,Dean_Elgar,team,Surrey_County_Cricket_Club,None,SportsTeam,Dean_Elgar,memberOf,Surrey_County_Cricket_Club,Q5246134,member of sports team,Surrey County Cricket Club,Q2725632,P54
+4,Dean_Elgar,team,Somerset_County_Cricket_Club,None,SportsTeam,Dean_Elgar,memberOf,Somerset_County_Cricket_Club,Q5246134,member of sports team,Somerset County Cricket Club,Q3489807,P54

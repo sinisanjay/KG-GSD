@@ -1,0 +1,50 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Vladimir_Putin,birthPlace,Russian_Soviet_Federative_Socialist_Republic,Animal,Place,Vladimir_Putin,birthPlace,Russian_Soviet_Federative_Socialist_Republic,Q7747,place of birth,Russia,Q159,P19
+1,Vladimir_Putin,birthPlace,Saint_Petersburg,Animal,Place,Vladimir_Putin,birthPlace,Saint_Petersburg,Q7747,place of birth,Saint Petersburg,Q656,P19
+2,Vladimir_Putin,birthPlace,Soviet_Union,Animal,Place,Vladimir_Putin,birthPlace,Soviet_Union,Q7747,place of birth,,Q15180,P19
+3,Vladimir_Putin,birthPlace,Saint_Petersburg,None,None,Vladimir_Putin,birthPlace,Saint_Petersburg,Q7747,place of birth,Saint Petersburg,Q656,P19
+4,Vladimir_Putin,birthPlace,Russian_Soviet_Federative_Socialist_Republic,None,None,Vladimir_Putin,birthPlace,Russian_Soviet_Federative_Socialist_Republic,Q7747,place of birth,Russia,Q159,P19
+5,Vladimir_Putin,birthPlace,Soviet_Union,None,None,Vladimir_Putin,birthPlace,Soviet_Union,Q7747,place of birth,,Q15180,P19
+6,Vladimir_Putin,almaMater,Saint_Petersburg_State_University,Person,EducationalInstitution,Vladimir_Putin,alumniOf,Saint_Petersburg_State_University,Q7747,educated at,Saint Petersburg State University,Q27621,P69
+7,Vladimir_Putin,child,Katerina_Tikhonova,Person,Person,Vladimir_Putin,children,Katerina_Tikhonova,Q7747,child,Katerina Tikhonova,Q19364345,P40
+8,Vladimir_Putin,residence,Moscow,Person,Place,Vladimir_Putin,homeLocation,Moscow,Q7747,official residence,Moscow,Q649,P263
+9,Vladimir_Putin,residence,Novo-Ogaryovo,Person,Place,Vladimir_Putin,homeLocation,Novo-Ogaryovo,Q7747,official residence,Novo-Ogaryovo,Q1510282,P263
+10,Vladimir_Putin,spouse,Lyudmila_Putina,Person,Person,Vladimir_Putin,spouse,Lyudmila_Putina,Q7747,spouse,Lyudmila Putina,Q233282,P26
+11,Vladimir_Putin,award,Order_of_Honour_(Russia),None,Award,Vladimir_Putin,award,Order_of_Honour_(Russia),Q7747,award received,Order of Honour,Q2268261,P166
+12,Vladimir_Putin,party,All-Russia_People's_Front,None,PoliticalParty,Vladimir_Putin,memberOf,All-Russia_People's_Front,Q7747,member of political party,All-Russia People's Front,Q730786,P102
+13,Vladimir_Putin,party,United_Russia,None,PoliticalParty,Vladimir_Putin,memberOf,United_Russia,Q7747,member of political party,United Russia,Q151469,P102
+14,Vladimir_Putin,party,Unity_(Russian_political_party),None,PoliticalParty,Vladimir_Putin,memberOf,Unity_(Russian_political_party),Q7747,member of political party,,Q1957669,P102
+15,Vladimir_Putin,party,Communist_Party_of_the_Soviet_Union,None,PoliticalParty,Vladimir_Putin,memberOf,Communist_Party_of_the_Soviet_Union,Q7747,member of political party,,Q3701765,P102
+16,Vladimir_Putin,party,Independent_politician,None,PoliticalParty,Vladimir_Putin,memberOf,Independent_politician,Q7747,member of political party,,Q327591,P102
+17,Vladimir_Putin,almaMater,Saint_Petersburg_State_University,None,None,Vladimir_Putin,alumniOf,Saint_Petersburg_State_University,Q7747,educated at,Saint Petersburg State University,Q27621,P69
+18,Vladimir_Putin,party,Independent_politician,None,None,Vladimir_Putin,memberOf,Independent_politician,Q7747,political party,,Q327591,P102
+19,Vladimir_Putin,spouse,Lyudmila_Putina,None,None,Vladimir_Putin,spouse,Lyudmila_Putina,Q7747,spouse,Lyudmila Putina,Q233282,P26
+20,Vladimir_Putin,nationality,Russia,Person,Country,Vladimir_Putin,nationality,Russia,Q7747,country of citizenship,Russia,Q159,P27
+21,Vladimir_Putin,almaMater,FSB_Academy,Person,EducationalInstitution,Vladimir_Putin,alumniOf,FSB_Academy,Q7747,educated at,FSB Academy,Q2387574,P69
+22,Vladimir_Putin,almaMater,Saint_Petersburg_State_University_Faculty_of_Law,Person,EducationalInstitution,Vladimir_Putin,alumniOf,Saint_Petersburg_State_University_Faculty_of_Law,Q7747,educated at,"Faculty of Law, Saint Petersburg State University",Q4534839,P69
+23,Vladimir_Putin,party,Bolsheviks,None,PoliticalParty,Vladimir_Putin,memberOf,Bolsheviks,Q7747,member of political party,Communist Party of the Soviet Union,Q79854,P102
+24,Vladimir_Putin,occupation,Coach_(sport),None,PersonFunction,Vladimir_Putin,hasOccupation,Coach_(sport),Q7747,occupation,coach,Q41583,P106
+25,Vladimir_Putin,occupation,Covert_agent,None,PersonFunction,Vladimir_Putin,hasOccupation,Covert_agent,Q7747,occupation,intelligence agent,Q392651,P106
+26,Vladimir_Putin,occupation,Stunt_performer,None,PersonFunction,Vladimir_Putin,hasOccupation,Stunt_performer,Q7747,occupation,stunt performer,Q465501,P106
+27,Vladimir_Putin,employer,KGB,Person,Organisation,Vladimir_Putin,worksFor,KGB,Q7747,employer,KGB,Q80919,P108
+28,Vladimir_Putin,employer,Presidential_Administration_of_Russia,Person,Organisation,Vladimir_Putin,worksFor,Presidential_Administration_of_Russia,Q7747,employer,Presidential Administration of Russia,Q2060629,P108
+29,Vladimir_Putin,award,Order_of_King_Abdulaziz,None,Award,Vladimir_Putin,award,Order_of_King_Abdulaziz,Q7747,award received,Order of King Abdulaziz al Saud,Q93923,P166
+30,Vladimir_Putin,award,Ig_Nobel_Prize,None,Award,Vladimir_Putin,award,Ig_Nobel_Prize,Q7747,award received,Ig Nobel Prize,Q184253,P166
+31,Vladimir_Putin,award,Time_Person_of_the_Year,None,Award,Vladimir_Putin,award,Time_Person_of_the_Year,Q7747,award received,Time Person of the Year,Q207826,P166
+32,Vladimir_Putin,award,Medal_%22For_Impeccable_Service%22,None,Award,Vladimir_Putin,award,Medal_%22For_Impeccable_Service%22,Q7747,award received,"Medal ""For Impeccable Service""",Q241181,P166
+33,Vladimir_Putin,award,Distinguished_Service_Medal_of_the_National_People's_Army,None,Award,Vladimir_Putin,award,Distinguished_Service_Medal_of_the_National_People's_Army,Q7747,award received,Medal of Merit of the National People's Army,Q512656,P166
+34,Vladimir_Putin,award,Olympic_Order,None,Award,Vladimir_Putin,award,Olympic_Order,Q7747,award received,Olympic Order,Q634353,P166
+35,Vladimir_Putin,award,Order_of_the_Badge_of_Honour,None,Award,Vladimir_Putin,award,Order_of_the_Badge_of_Honour,Q7747,award received,Order of the Badge of Honour,Q960966,P166
+36,Vladimir_Putin,award,Confucius_Peace_Prize,None,Award,Vladimir_Putin,award,Confucius_Peace_Prize,Q7747,award received,Confucius Peace Prize,Q1192712,P166
+37,Vladimir_Putin,award,Order_of_Saint-Charles,None,Award,Vladimir_Putin,award,Order_of_Saint-Charles,Q7747,award received,Order of Saint-Charles,Q2029016,P166
+38,Vladimir_Putin,award,Order_of_Zayed,None,Award,Vladimir_Putin,award,Order_of_Zayed,Q7747,award received,Order of Zayed,Q2329411,P166
+39,Vladimir_Putin,award,Order_of_Ho_Chi_Minh,None,Award,Vladimir_Putin,award,Order_of_Ho_Chi_Minh,Q7747,award received,Order of Ho Chi Minh,Q2390786,P166
+40,Vladimir_Putin,award,Order_of_the_Liberator,None,Award,Vladimir_Putin,award,Order_of_the_Liberator,Q7747,award received,Order of the Liberator,Q2452975,P166
+41,Vladimir_Putin,relation,Igor_Putin,Person,Person,Vladimir_Putin,relatedTo,Igor_Putin,Q7747,relative,Igor Putin,Q1833348,P1038
+42,Vladimir_Putin,relation,Roman_Putin,Person,Person,Vladimir_Putin,relatedTo,Roman_Putin,Q7747,relative,Roman Putin,Q15087614,P1038
+43,Vladimir_Putin,relation,Kirill_Shamalov,Person,Person,Vladimir_Putin,relatedTo,Kirill_Shamalov,Q7747,relative,Kirill Shamalov,Q22682071,P1038
+44,Vladimir_Putin,residence,Moscow_Kremlin,Person,Place,Vladimir_Putin,homeLocation,Moscow_Kremlin,Q7747,official residence,Moscow Kremlin,Q133274,P263
+45,Vladimir_Putin,residence,Kremlin_Senate,Person,Place,Vladimir_Putin,homeLocation,Kremlin_Senate,Q7747,official residence,Kremlin Senate,Q930376,P263
+46,Vladimir_Putin,residence,Moscow,Person,Place,Vladimir_Putin,homeLocation,Moscow,Q7747,residence,Moscow,Q649,P551
+47,Vladimir_Putin,residence,Saint_Petersburg,Person,Place,Vladimir_Putin,homeLocation,Saint_Petersburg,Q7747,residence,Saint Petersburg,Q656,P551
+48,Vladimir_Putin,residence,"Dresden,_Ohio",Person,Place,Vladimir_Putin,homeLocation,"Dresden,_Ohio",Q7747,residence,Dresden,Q1731,P551

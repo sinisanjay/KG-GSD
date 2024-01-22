@@ -1,0 +1,8 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q502121,location,Waterloo,Q639408,P276,[],[]
+1,Q502121,location,,Q1904,P276,[],[]
+2,Q502121,founded by,Mike Lazaridis,Q1379779,P112,['business' 'public company' 'software company'],['human']
+3,Q502121,location,Canada,Q16,P276,[],[]
+4,Q502121,founded by,Mike Lazaridis,Q1379779,P112,['business' 'public company' 'software company'],['human']
+5,Q502121,location of formation,Waterloo,Q639408,P740,,
+6,Q502121,country,Canada,Q16,P17,['business' 'public company' 'software company'],['country' 'sovereign state']

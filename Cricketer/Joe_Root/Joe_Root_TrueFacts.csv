@@ -1,0 +1,16 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Joe_Root,birthPlace,England,Animal,Place,Joe_Root,birthPlace,England,Q3180174,place of birth,,Q21,P19
+1,Joe_Root,birthPlace,Sheffield,Animal,Place,Joe_Root,birthPlace,Sheffield,Q3180174,place of birth,,Q12956644,P19
+2,Joe_Root,birthPlace,South_Yorkshire,Animal,Place,Joe_Root,birthPlace,South_Yorkshire,Q3180174,place of birth,,Q23095,P19
+3,Joe_Root,country,England,None,Country,Joe_Root,addressCountry,England,Q3180174,country,,Q21,P17
+4,Joe_Root,birthPlace,England,None,None,Joe_Root,birthPlace,England,Q3180174,place of birth,,Q21,P19
+5,Joe_Root,birthPlace,Sheffield,None,None,Joe_Root,birthPlace,Sheffield,Q3180174,place of birth,,Q12956644,P19
+6,Joe_Root,birthPlace,South_Yorkshire,None,None,Joe_Root,birthPlace,South_Yorkshire,Q3180174,place of birth,,Q23095,P19
+7,Joe_Root,nationality,United_Kingdom,Person,Country,Joe_Root,nationality,United_Kingdom,Q3180174,country of citizenship,,Q12130,P27
+8,Joe_Root,almaMater,Worksop_College,Person,EducationalInstitution,Joe_Root,alumniOf,Worksop_College,Q3180174,educated at,Worksop College,Q8035158,P69
+9,Joe_Root,birthPlace,Dore,Animal,Place,Joe_Root,birthPlace,Dore,Q3180174,place of birth,,Q531663,P19
+10,Joe_Root,team,England_cricket_team,None,SportsTeam,Joe_Root,memberOf,England_cricket_team,Q3180174,member of sports team,England cricket team,Q1321565,P54
+11,Joe_Root,team,Yorkshire_County_Cricket_Club,None,SportsTeam,Joe_Root,memberOf,Yorkshire_County_Cricket_Club,Q3180174,member of sports team,Yorkshire County Cricket Club,Q3177444,P54
+12,Joe_Root,team,Sydney_Thunder,None,SportsTeam,Joe_Root,memberOf,Sydney_Thunder,Q3180174,member of sports team,Sydney Thunder,Q7660178,P54
+13,Joe_Root,almaMater,King_Ecgbert_School,Person,EducationalInstitution,Joe_Root,alumniOf,King_Ecgbert_School,Q3180174,educated at,King Ecgbert School,Q6411452,P69
+14,Joe_Root,award,Wisden_Cricketers_of_the_Year,None,Award,Joe_Root,award,Wisden_Cricketers_of_the_Year,Q3180174,award received,Wisden Cricketer of the Year,Q3569447,P166

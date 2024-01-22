@@ -1,0 +1,27 @@
+,subj,prop,obj,defdomain,defrange
+0,Shane_Warne,team,Australia_national_cricket_team,None,SportsTeam
+1,Shane_Warne,teamManager,Australia_national_cricket_team,Person,SportsTeam
+2,Shane_Warne,nationality,Australia,Person,Country
+3,Shane_Warne,stateOfOrigin,Australia,Person,Country
+4,Shane_Warne,team,Melbourne_Stars,None,SportsTeam
+5,Shane_Warne,currentTeamManager,Melbourne_Stars,Person,SportsTeam
+6,Shane_Warne,award,Wisden_Cricketers_of_the_Year,None,Award
+7,Shane_Warne,federation,Wisden_Cricketers_of_the_Year,Person,Organisation
+8,Shane_Warne,nationality,Australia,Person,Country
+9,Shane_Warne,nationality,New_Netherland,Person,Country
+10,Shane_Warne,birthPlace,"Upper_Ferntree_Gully,_Victoria",Animal,Place
+11,Shane_Warne,birthPlace,Carpathian_Mountains,Animal,Place
+12,Shane_Warne,deathPlace,Ko_Samui,Animal,Place
+13,Shane_Warne,deathPlace,Carpathian_Mountains,Animal,Place
+14,Shane_Warne,almaMater,Mentone_Grammar_School,Person,EducationalInstitution
+15,Shane_Warne,affiliation,Mentone_Grammar_School,Organisation,Organisation
+16,Shane_Warne,team,Victoria_cricket_team,None,SportsTeam
+17,Shane_Warne,notableWine,Victoria_cricket_team,Grape,None
+18,Shane_Warne,team,Hampshire_County_Cricket_Club,None,SportsTeam
+19,Shane_Warne,diploma,Hampshire_County_Cricket_Club,Person,Diploma
+20,Shane_Warne,almaMater,"Hampton_High_School,_Melbourne",Person,EducationalInstitution
+21,Shane_Warne,almaMater,Funk ,Person,EducationalInstitution
+22,Shane_Warne,birthPlace,Victoria_(Australia),Animal,Place
+23,Shane_Warne,birthPlace,Badakhshan,Animal,Place
+24,Shane_Warne,team,Rajasthan_Royals,None,SportsTeam
+25,Shane_Warne,team,2004–05_Reading_F.C._season__Glen_Little__1,None,SportsTeam

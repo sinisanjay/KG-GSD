@@ -1,0 +1,25 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Joe_Biden,birthPlace,"Scranton,_Pennsylvania",Animal,Place,Joe_Biden,birthPlace,"Scranton,_Pennsylvania",Q6279,place of birth,,Q271395,P19
+1,Joe_Biden,almaMater,University_of_Delaware,Person,EducationalInstitution,Joe_Biden,alumniOf,University_of_Delaware,Q6279,educated at,University of Delaware,Q1068072,P69
+2,Joe_Biden,almaMater,Syracuse_University_College_of_Law,Person,EducationalInstitution,Joe_Biden,alumniOf,Syracuse_University_College_of_Law,Q6279,educated at,,Q7663080,P69
+3,Joe_Biden,child,Hunter_Biden,Person,Person,Joe_Biden,children,Hunter_Biden,Q6279,child,Hunter Biden,Q5944264,P40
+4,Joe_Biden,child,Beau_Biden,Person,Person,Joe_Biden,children,Beau_Biden,Q6279,child,Beau Biden,Q813332,P40
+5,Joe_Biden,spouse,Jill_Biden,Person,Person,Joe_Biden,spouse,Jill_Biden,Q6279,spouse,Jill Biden,Q235349,P26
+6,Joe_Biden,party,Democratic_Party_(United_States),None,PoliticalParty,Joe_Biden,memberOf,Democratic_Party_(United_States),Q6279,member of political party,Democratic Party,Q29552,P102
+7,Joe_Biden,party,Independent_politician,None,PoliticalParty,Joe_Biden,memberOf,Independent_politician,Q6279,political party,,Q327591,P102
+8,Joe_Biden,party,Democratic_Party_(United_States),None,None,Joe_Biden,memberOf,Democratic_Party_(United_States),Q6279,member of political party,Democratic Party,Q29552,P102
+9,Joe_Biden,spouse,Jill_Biden,None,None,Joe_Biden,spouse,Jill_Biden,Q6279,spouse,Jill Biden,Q235349,P26
+10,Joe_Biden,residence,"Wilmington,_Delaware",Person,Place,Joe_Biden,homeLocation,"Wilmington,_Delaware",Q6279,official residence,Wilmington,Q174224,P263
+11,Joe_Biden,nationality,United_States,Person,Country,Joe_Biden,nationality,United_States,Q6279,country of citizenship,United States of America,Q30,P27
+12,Joe_Biden,team,Delaware_Fightin'_Blue_Hens_football,None,SportsTeam,Joe_Biden,memberOf,Delaware_Fightin'_Blue_Hens_football,Q6279,member of sports team,Delaware Fightin' Blue Hens football,Q5253290,P54
+13,Joe_Biden,almaMater,Syracuse_University,Person,EducationalInstitution,Joe_Biden,alumniOf,Syracuse_University,Q6279,educated at,Syracuse University,Q617433,P69
+14,Joe_Biden,almaMater,Archmere_Academy,Person,EducationalInstitution,Joe_Biden,alumniOf,Archmere_Academy,Q6279,educated at,Archmere Academy,Q2860580,P69
+15,Joe_Biden,employer,University_of_Pennsylvania,Person,Organisation,Joe_Biden,worksFor,University_of_Pennsylvania,Q6279,employer,University of Pennsylvania,Q49117,P108
+16,Joe_Biden,employer,Widener_University,Person,Organisation,Joe_Biden,worksFor,Widener_University,Q6279,employer,Widener University,Q3443325,P108
+17,Joe_Biden,award,Presidential_Medal_of_Freedom,None,Award,Joe_Biden,award,Presidential_Medal_of_Freedom,Q6279,award received,Presidential Medal of Freedom,Q17144,P166
+18,Joe_Biden,award,Time_100,None,Award,Joe_Biden,award,Time_100,Q6279,award received,Time 100,Q604370,P166
+19,Joe_Biden,award,Laetare_Medal,None,Award,Joe_Biden,award,Laetare_Medal,Q6279,award received,Laetare Medal,Q1800135,P166
+20,Joe_Biden,award,Nishan-e-Pakistan,None,Award,Joe_Biden,award,Nishan-e-Pakistan,Q6279,award received,Nishan-e-Pakistan,Q1820710,P166
+21,Joe_Biden,award,Order_of_Liberty_(Ukraine),None,Award,Joe_Biden,award,Order_of_Liberty_(Ukraine),Q6279,award received,Order of Liberty,Q2469017,P166
+22,Joe_Biden,award,Ellis_Island_Medal_of_Honor,None,Award,Joe_Biden,award,Ellis_Island_Medal_of_Honor,Q6279,award received,Ellis Island Medal of Honor,Q5365910,P166
+23,Joe_Biden,residence,White_House,Person,Place,Joe_Biden,homeLocation,White_House,Q6279,residence,White House,Q35525,P551

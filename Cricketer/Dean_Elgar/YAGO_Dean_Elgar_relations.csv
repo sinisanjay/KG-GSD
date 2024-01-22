@@ -1,0 +1,6 @@
+,subj,prop,obj,defdomain,defrange
+0,Dean_Elgar,birthPlace,Welkom,Person,Place
+1,Dean_Elgar,nationality,South_Africa,Person,Country
+2,Dean_Elgar,memberOf,South_Africa_national_cricket_team,,
+3,Dean_Elgar,memberOf,Surrey_County_Cricket_Club,,
+4,Dean_Elgar,memberOf,Somerset_County_Cricket_Club,,

@@ -1,0 +1,33 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q13371,located in the administrative territorial entity,,Q21713103,P131,[],[]
+1,Q13371,located in the administrative territorial entity,,Q21713103,P131,[],[]
+2,Q13371,subsidiary,Center for Hellenic Studies,Q1053592,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['research institute']
+3,Q13371,subsidiary,Fairbank Center for Chinese Studies,Q5429991,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['academic institution' 'organization' 'research institute']
+4,Q13371,subsidiary,,Q18719675,P355,,
+5,Q13371,subsidiary,Harvard Business School,Q49126,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['business school']
+6,Q13371,subsidiary,Harvard University Press,Q1587900,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['book publisher' 'university press']
+7,Q13371,subsidiary,Harvard Graduate School of Design,Q3128016,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['academic department' 'graduate school']
+8,Q13371,subsidiary,Harvard Medical School,Q49121,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['medical school']
+9,Q13371,subsidiary,Dumbarton Oaks,Q1264942,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['mansion' 'museum' 'research institute' 'research library']
+10,Q13371,subsidiary,Harvard Management Company,Q5676489,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['business']
+11,Q13371,country,United States of America,Q30,P17,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']","['constitutional republic' 'country' 'democratic republic'
+ 'federal republic' 'sovereign state' 'superpower']"
+12,Q13371,founded by,Massachusetts General Court,Q1453540,P112,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['bicameral legislature' 'legislature of a U.S. state']
+13,Q13371,subsidiary,Harvard Law School,Q49122,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['graduate school' 'law school' 'publisher']
+14,Q13371,subsidiary,Harvard Museum of Natural History,Q2001855,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['museum']
+15,Q13371,subsidiary,Harvard University Center for Italian Renaissance Studies,Q3558578,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['research institute']
+16,Q13371,subsidiary,Harvard Art Museums,Q3783572,P355,"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']",['art museum']

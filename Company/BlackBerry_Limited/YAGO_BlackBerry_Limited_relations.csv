@@ -1,0 +1,8 @@
+,subj,prop,obj,defdomain,defrange
+0,BlackBerry_Limited,location,"Waterloo,_Ontario",,
+1,BlackBerry_Limited,location,Ontario,,
+2,BlackBerry_Limited,founder,Mike_Lazaridis,Organization,Person
+3,BlackBerry_Limited,location,Canada,,
+4,BlackBerry_Limited,founder,Mike_Lazaridis,Organization,Person
+5,BlackBerry_Limited,foundingLocation,"Waterloo,_Ontario",Organization,Place
+6,BlackBerry_Limited,addressCountry,Canada,,

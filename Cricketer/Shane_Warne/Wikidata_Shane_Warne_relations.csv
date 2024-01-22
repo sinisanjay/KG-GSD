@@ -1,0 +1,15 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q555240,place of birth,,Q12093185,P19,,
+1,Q555240,place of birth,Upper Ferntree Gully,Q7898645,P19,['human'],['gazetted locality of Victoria' 'suburb']
+2,Q555240,country of citizenship,,Q25907685,P27,,
+3,Q555240,educated at,"Hampton High School, Melbourne",Q5646212,P69,['human'],['high school']
+4,Q555240,place of death,Ko Samui,Q270375,P20,['human'],['island']
+5,Q555240,country of citizenship,Australia,Q408,P27,['human'],"['Commonwealth realm' 'country' 'dominion of the British Empire'
+ 'federation' 'sovereign state']"
+6,Q555240,member of sports team,Australia national cricket team,Q142555,P54,['human'],['cricket team' 'national sports team']
+7,Q555240,member of sports team,Victoria cricket team,Q1136066,P54,['human'],['cricket team']
+8,Q555240,member of sports team,Rajasthan Royals,Q1209990,P54,['human'],['cricket team']
+9,Q555240,member of sports team,Hampshire County Cricket Club,Q3126578,P54,['human'],['cricket team']
+10,Q555240,member of sports team,Melbourne Stars,Q6811888,P54,['human'],['cricket team']
+11,Q555240,educated at,Mentone Grammar School,Q6817584,P69,['human'],['high school']
+12,Q555240,award received,Wisden Cricketer of the Year,Q3569447,P166,['human'],['award']

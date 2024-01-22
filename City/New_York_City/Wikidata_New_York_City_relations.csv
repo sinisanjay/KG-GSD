@@ -1,0 +1,34 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q60,country,United States of America,Q30,P17,"['big city' 'city' 'city in the United States'
+ 'city in the state of New York' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city' 'port settlement']","['constitutional republic' 'country' 'democratic republic'
+ 'federal republic' 'sovereign state' 'superpower']"
+1,Q60,capital,Staten Island,Q18432,P36,[],[]
+2,Q60,located in the administrative territorial entity,New York metropolitan area,Q683705,P131,,
+3,Q60,official language,English,Q1860,P37,"['big city' 'city' 'city in the United States'
+ 'city in the state of New York' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city' 'port settlement']",['language' 'modern language' 'natural language']
+4,Q60,located in or next to body of water,Atlantic Ocean,Q97,P206,"['big city' 'city' 'city in the United States'
+ 'city in the state of New York' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city' 'port settlement']",['ocean']
+5,Q60,located in or next to body of water,Hudson River,Q3140,P206,"['big city' 'city' 'city in the United States'
+ 'city in the state of New York' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city' 'port settlement']",['river']
+6,Q60,located in or next to body of water,East River,Q212862,P206,"['big city' 'city' 'city in the United States'
+ 'city in the state of New York' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city' 'port settlement']",['estuary' 'strait']
+7,Q60,located in or next to body of water,Harlem River,Q597451,P206,"['big city' 'city' 'city in the United States'
+ 'city in the state of New York' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city' 'port settlement']",['strait']
+8,Q60,located in or next to body of water,Long Island Sound,Q867460,P206,"['big city' 'city' 'city in the United States'
+ 'city in the state of New York' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city' 'port settlement']",['estuary']
+9,Q60,located in or next to body of water,Bronx River,Q928157,P206,"['big city' 'city' 'city in the United States'
+ 'city in the state of New York' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city' 'port settlement']",['river']
+10,Q60,located in or next to body of water,Upper New York Bay,Q1064776,P206,"['big city' 'city' 'city in the United States'
+ 'city in the state of New York' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city' 'port settlement']",['bay' 'cove']
+11,Q60,located in or next to body of water,Lower New York Bay,Q1294277,P206,"['big city' 'city' 'city in the United States'
+ 'city in the state of New York' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city' 'port settlement']",['bay']

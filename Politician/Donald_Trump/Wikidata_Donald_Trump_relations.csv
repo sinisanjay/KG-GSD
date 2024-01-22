@@ -1,0 +1,32 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q22686,place of birth,,Q18424,P19,['human'],['hospital']
+1,Q22686,place of birth,New York City,Q60,P19,['human'],['hospital']
+2,Q22686,educated at,Fordham University,Q130965,P69,['human'],['private not-for-profit educational institution' 'university']
+3,Q22686,educated at,University of Pennsylvania,Q49117,P69,['human'],"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university' 'university']"
+4,Q22686,child,Eric Trump,Q3731533,P40,['human'],['human']
+5,Q22686,child,Ivanka Trump,Q239411,P40,['human'],['human']
+6,Q22686,father,Fred Trump,Q3752663,P22,['human'],['human']
+7,Q22686,official residence,,Q11299,P263,[],[]
+8,Q22686,official residence,New York City,Q60,P263,[],[]
+9,Q22686,spouse,Melania Trump,Q432473,P26,['human'],['human']
+10,Q22686,spouse,,Q2597050,P26,['human'],['human']
+11,Q22686,spouse,,Q242351,P26,['human'],['human']
+12,Q22686,member of political party,Republican Party,Q29468,P102,['human'],['political party']
+13,Q22686,residence,White House,Q35525,P551,['human'],['civic building' 'mansion' 'official residence' 'tourist attraction']
+14,Q22686,country of citizenship,United States of America,Q30,P27,['human'],"['constitutional republic' 'country' 'democratic republic' 'federal state'
+ 'sovereign state' 'superpower']"
+15,Q22686,educated at,The Wharton School,Q1329269,P69,['human'],['business school' 'private university']
+16,Q22686,educated at,New York Military Academy,Q7013764,P69,['human'],['military academy']
+17,Q22686,educated at,The Kew-Forest School,Q7744153,P69,['human'],['university-preparatory school']
+18,Q22686,occupation,business magnate,Q911554,P106,['human'],['occupation' 'profession']
+19,Q22686,award received,WWE Hall of Fame,Q36001,P166,['human'],['hall of fame' 'television program']
+20,Q22686,award received,Order of Abdulaziz al Saud,Q93923,P166,['human'],['order']
+21,Q22686,award received,Time Person of the Year,Q207826,P166,['human'],['award']
+22,Q22686,award received,Golden Raspberry Award for Worst Supporting Actor,Q641316,P166,['human'],['Golden Raspberry Awards']
+23,Q22686,award received,Ellis Island Medal of Honor,Q5365910,P166,['human'],['medal']
+24,Q22686,award received,Gaming Hall of Fame,Q5520192,P166,['human'],['hall of fame']
+25,Q22686,award received,Jewish National Fund Tree of Life Award,Q6189894,P166,['human'],['award']
+30,Q22686,sibling,Maryanne Trump Barry,Q736223,P3373,['human'],['human']
+32,Q22686,relative,John G. Trump,Q1576675,P1038,['human'],['human']
+33,Q22686,relative,Jared Kushner,Q13628723,P1038,['human'],['human']

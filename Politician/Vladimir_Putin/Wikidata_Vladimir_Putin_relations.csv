@@ -1,0 +1,58 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q7747,place of birth,Russia,Q159,P19,,
+1,Q7747,place of birth,Saint Petersburg,Q656,P19,['human'],"town' 'federal city of Russia'
+ 'federal subject of Russia' 'former capital' 'million city'
+ 'second largest city']"
+2,Q7747,place of birth,,Q15180,P19,,
+3,Q7747,place of birth,Saint Petersburg,Q656,P19,['human'],"town' 'federal city of Russia'
+ 'federal subject of Russia' 'former capital' 'million city'
+ 'second largest city']"
+4,Q7747,place of birth,Russia,Q159,P19,,
+5,Q7747,place of birth,,Q15180,P19,,
+6,Q7747,educated at,Saint Petersburg State University,Q27621,P69,['human'],['open-access publisher' 'university']
+7,Q7747,child,Katerina Tikhonova,Q19364345,P40,['human'],['billionaire' 'human']
+8,Q7747,official residence,Moscow,Q649,P263,,
+9,Q7747,official residence,Novo-Ogaryovo,Q1510282,P263,['human'],['estate' 'official residence']
+10,Q7747,spouse,Lyudmila Putina,Q233282,P26,['human'],['human']
+11,Q7747,award received,Order of Honour,Q2268261,P166,['human'],['civil decoration' 'order']
+12,Q7747,political party,All-Russia People's Front,Q730786,P102,[],[]
+13,Q7747,member of political party,United Russia,Q151469,P102,['human'],['political party']
+14,Q7747,political party,,Q1957669,P102,[],[]
+15,Q7747,political party,,Q3701765,P102,[],[]
+16,Q7747,political party,,Q327591,P102,[],[]
+17,Q7747,educated at,Saint Petersburg State University,Q27621,P69,['human'],['open-access publisher' 'university']
+18,Q7747,political party,,Q327591,P102,[],[]
+19,Q7747,spouse,Lyudmila Putina,Q233282,P26,['human'],['human']
+20,Q7747,country of citizenship,Russia,Q159,P27,['human'],['country bordering the Baltic Sea' 'sovereign state']
+21,Q7747,educated at,FSB Academy,Q2387574,P69,['human'],['university']
+22,Q7747,educated at,"Faculty of Law, Saint Petersburg State University",Q4534839,P69,['human'],['faculty of law']
+23,Q7747,member of political party,Communist Party of the Soviet Union,Q79854,P102,['human'],['communist party' 'political party']
+24,Q7747,occupation,coach,Q41583,P106,['human'],['position' 'profession']
+25,Q7747,occupation,intelligence agent,Q392651,P106,['human'],['occupation' 'profession']
+26,Q7747,occupation,stunt performer,Q465501,P106,['human'],['filmmaking occupation']
+27,Q7747,employer,KGB,Q80919,P108,['human'],['security agency']
+28,Q7747,employer,Presidential Administration of Russia,Q2060629,P108,['human'],['public administration']
+29,Q7747,award received,Order of King Abdulaziz al Saud,Q93923,P166,['human'],['order']
+30,Q7747,award received,Ig Nobel Prize,Q184253,P166,['human'],['ironic award' 'parody']
+31,Q7747,award received,Time Person of the Year,Q207826,P166,['human'],['award']
+32,Q7747,award received,"Medal ""For Impeccable Service""",Q241181,P166,['human'],['award with classes' 'medal' 'military decoration']
+33,Q7747,award received,Medal of Merit of the National People's Army,Q512656,P166,['human'],['medal' 'military decoration']
+34,Q7747,award received,Olympic Order,Q634353,P166,['human'],['award' 'order']
+35,Q7747,award received,Order of the Badge of Honour,Q960966,P166,['human'],['civil decoration' 'order']
+36,Q7747,award received,Confucius Peace Prize,Q1192712,P166,['human'],['award' 'peace award']
+37,Q7747,award received,Order of Saint-Charles,Q2029016,P166,['human'],['order']
+38,Q7747,award received,Order of Zayed,Q2329411,P166,['human'],['order']
+39,Q7747,award received,Order of Ho Chi Minh,Q2390786,P166,['human'],['order']
+40,Q7747,award received,Order of the Liberator,Q2452975,P166,['human'],['order']
+41,Q7747,relative,Igor Putin,Q1833348,P1038,['human'],['human']
+42,Q7747,relative,Roman Putin,Q15087614,P1038,['human'],['human']
+43,Q7747,relative,Kirill Shamalov,Q22682071,P1038,['human'],['Russian oligarch' 'billionaire' 'human']
+44,Q7747,official residence,Moscow Kremlin,Q133274,P263,['human'],['government building' 'historic district' 'kremlin' 'tourist attraction']
+45,Q7747,official residence,Kremlin Senate,Q930376,P263,['human'],['building' 'palace']
+46,Q7747,residence,Moscow,Q649,P551,['human'],"town'
+ 'federal city of Russia' 'largest city' 'megacity' 'million city']"
+47,Q7747,residence,Saint Petersburg,Q656,P551,['human'],"town' 'federal city of Russia'
+ 'federal subject of Russia' 'former capital' 'million city'
+ 'second largest city']"
+48,Q7747,residence,Dresden,Q1731,P551,['human'],"['big city' 'city' 'major regional center' 'urban district in Saxony'
+ 'urban municipality of Germany']"

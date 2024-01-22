@@ -1,0 +1,9 @@
+,subj,prop,obj,defdomain,defrange,label,remark
+0,Chanel,foundationPlace,Paris,Organisation,City,1,
+1,Chanel,locationCity,Paris,Organisation,City,0,WP-DR
+2,Chanel,location,Neuilly-sur-Seine,None,Place,1,
+3,Chanel,location,Carpathian_Mountains,None,Place,0,WE-T
+4,Chanel,foundedBy,Coco_Chanel,None,Agent,1,
+5,Chanel,isPartOfAnatomicalStructure,Coco_Chanel,Brain,AnatomicalStructure,0,WP
+6,Chanel,country,France,None,Country,1,
+7,Chanel,country,Sea_of_Crete,None,Country,0,WE

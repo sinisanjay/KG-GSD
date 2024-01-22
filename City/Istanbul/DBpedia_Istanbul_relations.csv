@@ -1,0 +1,11 @@
+,subj,prop,obj,defdomain,defrange
+0,Byzantium,location,Black_Sea,None,Place
+1,Byzantium,closeTo,Black_Sea,Place,Place
+2,Byzantium,district,Byzantium,Place,PopulatedPlace
+3,Byzantium,heritageRegister,Byzantium,Place,None
+4,Byzantium,location,Golden_Horn,None,Place
+5,Byzantium,location,243_Ida,None,Place
+6,Istanbul,country,Turkey,None,Country
+7,Istanbul,americanComedyAward,Turkey,Comedian,Award
+8,Byzantium,location,Sea_of_Marmara,None,Place
+9,Byzantium,location,Bely_(volcano),None,Place

@@ -1,0 +1,31 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Barack_Obama,birthPlace,Hawaii,Person,Place,Barack_Obama,birthPlace,Hawaii,Q76,place of birth,,Q14353921,P19
+1,Barack_Obama,birthPlace,Honolulu,Person,Place,Barack_Obama,birthPlace,Honolulu,Q76,place of birth,,Q18094,P19
+2,Barack_Obama,almaMater,Occidental_College,Person,EducationalInstitution,Barack_Obama,alumniOf,Occidental_College,Q76,educated at,Occidental College,Q1346110,P69
+3,Barack_Obama,almaMater,Harvard_Law_School,Person,EducationalInstitution,Barack_Obama,alumniOf,Harvard_Law_School,Q76,educated at,,Q18719675,P69
+4,Barack_Obama,residence,White_House,Person,Place,Barack_Obama,homeLocation,White_House,Q76,official residence,,Q35525,P263
+5,Barack_Obama,spouse,Michelle_Obama,Person,Person,Barack_Obama,spouse,Michelle_Obama,Q76,spouse,Michelle Obama,Q13133,P26
+6,Barack_Obama,award,Nobel_Peace_Prize,None,Award,Barack_Obama,award,Nobel_Peace_Prize,Q76,award received,Nobel Peace Prize,Q35637,P166
+7,Barack_Obama,party,Democratic_Party_(United_States),None,PoliticalParty,Barack_Obama,memberOf,Democratic_Party_(United_States),Q76,member of political party,Democratic Party,Q29552,P102
+8,Barack_Obama,parents,Barack_Obama_Sr.,None,None,Barack_Obama,parent,Barack_Obama_Sr.,Q76,father,Barack Obama Sr.,Q649593,P22
+9,Barack_Obama,parents,Ann_Dunham,None,None,Barack_Obama,parent,Ann_Dunham,Q76,mother,Ann Dunham,Q766106,P25
+10,Barack_Obama,relation,Stanley_Armour_Dunham,Person,Person,Barack_Obama,relatedTo,Stanley_Armour_Dunham,Q76,relative,Stanley Armour Dunham,Q2856335,P1038
+11,Barack_Obama,relation,Lolo_Soetoro,Person,Person,Barack_Obama,relatedTo,Lolo_Soetoro,Q76,relative,Lolo Soetoro,Q4115068,P1038
+12,Barack_Obama,sibling,Maya_Soetoro-Ng,Person,Person,Barack_Obama,sibling,Maya_Soetoro-Ng,Q76,sibling,Maya Soetoro-Ng,Q4382677,P3373
+13,Barack_Obama,nationality,United_States,Person,Country,Barack_Obama,nationality,United_States,Q76,country of citizenship,United States of America,Q30,P27
+14,Barack_Obama,almaMater,Columbia_University,Person,EducationalInstitution,Barack_Obama,alumniOf,Columbia_University,Q76,educated at,Columbia University,Q49088,P69
+15,Barack_Obama,almaMater,Harvard_Law_School,Person,EducationalInstitution,Barack_Obama,alumniOf,Harvard_Law_School,Q76,educated at,Harvard Law School,Q49122,P69
+16,Barack_Obama,almaMater,Punahou_School,Person,EducationalInstitution,Barack_Obama,alumniOf,Punahou_School,Q76,educated at,Punahou School,Q3273124,P69
+17,Barack_Obama,almaMater,State_Elementary_School_Menteng_01,Person,EducationalInstitution,Barack_Obama,alumniOf,State_Elementary_School_Menteng_01,Q76,educated at,State Elementary School Menteng 01,Q4122998,P69
+18,Barack_Obama,employer,University_of_Chicago,Person,Organisation,Barack_Obama,worksFor,University_of_Chicago,Q76,employer,University of Chicago,Q131252,P108
+19,Barack_Obama,employer,Sidley_Austin,Person,Organisation,Barack_Obama,worksFor,Sidley_Austin,Q76,employer,Sidley Austin,Q3483312,P108
+20,Barack_Obama,employer,Business_International_Corporation,Person,Organisation,Barack_Obama,worksFor,Business_International_Corporation,Q76,employer,Business International Corporation,Q4537328,P108
+21,Barack_Obama,employer,New_York_Public_Interest_Research_Group,Person,Organisation,Barack_Obama,worksFor,New_York_Public_Interest_Research_Group,Q76,employer,New York Public Interest Research Group,Q4537781,P108
+22,Barack_Obama,employer,Gamaliel_Foundation,Person,Organisation,Barack_Obama,worksFor,Gamaliel_Foundation,Q76,employer,Gamaliel Foundation,Q4537985,P108
+23,Barack_Obama,award,Order_of_the_British_Empire,None,Award,Barack_Obama,award,Order_of_the_British_Empire,Q76,award received,Order of the British Empire,Q14420,P166
+24,Barack_Obama,award,Order_of_King_Abdulaziz,None,Award,Barack_Obama,award,Order_of_King_Abdulaziz,Q76,award received,Order of Abdulaziz al Saud,Q93923,P166
+25,Barack_Obama,award,Time_Person_of_the_Year,None,Award,Barack_Obama,award,Time_Person_of_the_Year,Q76,award received,Time Person of the Year,Q207826,P166
+26,Barack_Obama,award,Order_of_the_Rajamitrabhorn,None,Award,Barack_Obama,award,Order_of_the_Rajamitrabhorn,Q76,award received,Order of the Rajamitrabhorn,Q582930,P166
+27,Barack_Obama,award,National_Medal_of_Science,None,Award,Barack_Obama,award,National_Medal_of_Science,Q76,award received,National Medal of Science,Q737051,P166
+28,Barack_Obama,award,Grammy_Award_for_Best_Spoken_Word_Album,None,Award,Barack_Obama,award,Grammy_Award_for_Best_Spoken_Word_Album,Q76,award received,Grammy Award for Best Spoken Word Album,Q5593890,P166
+29,Barack_Obama,award,President's_Medal_(Israel),None,Award,Barack_Obama,award,President's_Medal_(Israel),Q76,award received,Presidential Medal of Distinction,Q7241175,P166

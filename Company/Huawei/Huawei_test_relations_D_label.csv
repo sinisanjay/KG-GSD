@@ -1,0 +1,11 @@
+,subj,prop,obj,defdomain,defrange,label,remark
+0,Huawei,locationCity,Shenzhen,Organisation,City,1,
+1,Huawei,foundationPlace,Shenzhen,Organisation,City,0,WP-DR
+2,Huawei,locationCountry,China,None,Country,1,
+3,Huawei,industry,China,Company,None,0,WP-D
+4,Huawei,foundationPlace,Shenzhen,Organisation,City,1,
+5,Huawei,foundationPlace,"Reti,_Pakistan",Organisation,City,0,WE-T
+6,Huawei,foundedBy,Ren_Zhengfei,None,Agent,1,
+7,Huawei,teachingStaff,Ren_Zhengfei,School,None,0,WP
+8,Huawei,subsidiary,HiSilicon,Company,Company,1,
+9,Huawei,subsidiary,1984_Congoleum_Classic,Company,Company,0,WE

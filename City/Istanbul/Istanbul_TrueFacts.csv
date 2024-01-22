@@ -1,0 +1,6 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Istanbul,country,Turkey,None,Country,Istanbul,addressCountry,Turkey,Q406,country,Turkey,Q43,P17
+1,Byzantium,district,Byzantium,Place,PopulatedPlace,Byzantium,containedInPlace,Byzantium,Q406,located in the administrative territorial entity,Istanbul Province,Q534799,P131
+2,Byzantium,location,Black_Sea,None,Place,Byzantium,location,Black_Sea,Q406,located in or next to body of water,Black Sea,Q166,P206
+3,Byzantium,location,Sea_of_Marmara,None,Place,Byzantium,location,Sea_of_Marmara,Q406,located in or next to body of water,Sea of Marmara,Q35367,P206
+4,Byzantium,location,Golden_Horn,None,Place,Byzantium,location,Golden_Horn,Q406,located in or next to body of water,Golden Horn,Q179839,P206

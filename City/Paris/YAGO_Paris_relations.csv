@@ -1,0 +1,10 @@
+,subj,prop,obj,defdomain,defrange
+0,Paris,addressCountry,France,,
+1,Paris,memberOf,Socialist_Party_(France),,
+2,Paris,hasOfficialLanguage,French_language,,
+3,Paris,containedInPlace,Grand_Paris,Place,b190933582
+4,Paris,location,Seine,,
+5,Paris,location,Bassin_de_la_Villette,,
+6,Paris,location,Canal_Saint-Martin,,
+7,Paris,location,Canal_de_l'Ourcq,,
+14,Paris,inLanguage,French_language,,

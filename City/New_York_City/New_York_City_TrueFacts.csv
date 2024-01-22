@@ -1,0 +1,13 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,New_York_City,country,United_States,None,Country,New_York_City,addressCountry,United_States,Q60,country,United States of America,Q30,P17
+1,New_York_City,capital,Staten_Island,PopulatedPlace,City,New_York_City,containsPlace,Staten_Island,Q60,capital,Staten Island,Q18432,P36
+2,New_York_City,district,New_York_metropolitan_area,Place,PopulatedPlace,New_York_City,containedInPlace,New_York_metropolitan_area,Q60,located in the administrative territorial entity,New York metropolitan area,Q683705,P131
+3,New_York_City,officialLanguage,English_language,PopulatedPlace,Language,New_York_City,hasOfficialLanguage,English_language,Q60,official language,English,Q1860,P37
+4,New_York_City,location,Atlantic_Ocean,None,Place,New_York_City,location,Atlantic_Ocean,Q60,located in or next to body of water,Atlantic Ocean,Q97,P206
+5,New_York_City,location,Hudson_River,None,Place,New_York_City,location,Hudson_River,Q60,located in or next to body of water,Hudson River,Q3140,P206
+6,New_York_City,location,"East_River,_Nova_Scotia",None,Place,New_York_City,location,"East_River,_Nova_Scotia",Q60,located in or next to body of water,East River,Q212862,P206
+7,New_York_City,location,Harlem_River,None,Place,New_York_City,location,Harlem_River,Q60,located in or next to body of water,Harlem River,Q597451,P206
+8,New_York_City,location,Long_Island_Sound,None,Place,New_York_City,location,Long_Island_Sound,Q60,located in or next to body of water,Long Island Sound,Q867460,P206
+9,New_York_City,location,Bronx_River,None,Place,New_York_City,location,Bronx_River,Q60,located in or next to body of water,Bronx River,Q928157,P206
+10,New_York_City,location,Upper_New_York_Bay,None,Place,New_York_City,location,Upper_New_York_Bay,Q60,located in or next to body of water,Upper New York Bay,Q1064776,P206
+11,New_York_City,location,Lower_New_York_Bay,None,Place,New_York_City,location,Lower_New_York_Bay,Q60,located in or next to body of water,Lower New York Bay,Q1294277,P206

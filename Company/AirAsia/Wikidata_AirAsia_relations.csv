@@ -1,0 +1,14 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q406643,subsidiary,AirAsia Japan,Q1376644,P355,,
+1,Q406643,subsidiary,AirAsia Philippines,Q1319117,P355,,
+2,Q406643,subsidiary,Thai AirAsia,Q1148568,P355,,
+3,Q406643,subsidiary,AirAsia Indonesia,Q745971,P355,,
+4,Q406643,subsidiary,,Q196817,P355,,
+5,Q406643,subsidiary,AirAsia India,Q5103383,P355,,
+6,Q406643,subsidiary,AirAsia X,Q406632,P355,,
+7,Q406643,subsidiary,,Q18327499,P355,,
+8,Q406643,subsidiary,,Q16308074,P355,,
+9,Q406643,father,Tune Group,Q7852926,P22,[],[]
+10,Q406643,location of formation,Kuala Lumpur,Q1865,P740,['airline' 'public company'],['capital' 'federal territory of Malaysia' 'million city']
+11,Q406643,country,Malaysia,Q833,P17,['airline' 'public company'],"['country' 'member states of the Association of Southeast Asian Nations'
+ 'sovereign state']"

@@ -1,0 +1,5 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Chanel,location,Neuilly-sur-Seine,None,Place,Chanel,location,Neuilly-sur-Seine,Q218115,location,Neuilly-sur-Seine,Q48958,P276
+1,Chanel,foundedBy,Coco_Chanel,None,Agent,Chanel,founder,Coco_Chanel,Q218115,founded by,,Q45661,P112
+2,Chanel,foundationPlace,Paris,Organisation,City,Chanel,foundingLocation,Paris,Q218115,location of formation,Paris,Q90,P740
+3,Chanel,country,France,None,Country,Chanel,addressCountry,France,Q218115,country,France,Q142,P17

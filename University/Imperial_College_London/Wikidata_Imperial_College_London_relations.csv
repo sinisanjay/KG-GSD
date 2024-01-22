@@ -1,0 +1,22 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q189022,affiliation,,Q392156,P1659,,
+1,Q189022,affiliation,,Q1152269,P1659,,
+2,Q189022,affiliation,Russell Group,Q590631,P1659,,
+3,Q189022,affiliation,Association of Commonwealth Universities,Q593768,P1416,['educational organization' 'public research university'],['international organization' 'membership organization']
+4,Q189022,affiliation,golden triangle,Q1073858,P1659,,
+5,Q189022,affiliation,European University Association,Q868940,P1659,,
+6,Q189022,affiliation,,Q30636169,P1659,,
+7,Q189022,located in the administrative territorial entity,,Q103177460,P131,,
+8,Q189022,country,,Q12130,P17,,
+9,Q189022,located in the administrative territorial entity,,Q103177460,P131,,
+10,Q189022,country,,Q12130,P17,,
+11,Q189022,founded by,Edward VII,Q20875,P112,['educational organization' 'public research university'],['human']
+12,Q189022,location,Silwood Park,Q7517190,P276,['educational organization' 'public research university'],['English country house' 'park' 'university campus']
+13,Q189022,political party,World Wide Web Consortium,Q37033,P102,[],[]
+14,Q189022,political party,European University Association,Q868940,P102,[],[]
+15,Q189022,political party,Oak Ridge Associated Universities,Q5583848,P102,[],[]
+16,Q189022,political party,Russell Group,Q590631,P102,[],[]
+17,Q189022,located in the administrative territorial entity,Silwood Park,Q7517190,P131,,
+18,Q189022,subsidiary,Imperial College Faculty of Engineering,Q6006474,P355,['educational organization' 'public research university'],['engineering school' 'faculty']
+19,Q189022,subsidiary,Imperial College Business School,Q15228570,P355,['educational organization' 'public research university'],['business school']
+20,Q189022,subsidiary,Imperial College Faculty of Natural Sciences,Q16937419,P355,['educational organization' 'public research university'],['faculty']

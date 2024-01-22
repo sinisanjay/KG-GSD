@@ -1,0 +1,11 @@
+,subj,prop,obj,defdomain,defrange
+0,Dean_Elgar,nationality,South_Africa,Person,Country
+1,Dean_Elgar,stateOfOrigin,South_Africa,Person,Country
+2,Dean_Elgar,team,Surrey_County_Cricket_Club,None,SportsTeam
+3,Dean_Elgar,usurper,Surrey_County_Cricket_Club,Person,Person
+4,Dean_Elgar,team,Somerset_County_Cricket_Club,None,SportsTeam
+5,Dean_Elgar,team,West_Ham_United_F.C.,None,SportsTeam
+6,Dean_Elgar,team,South_Africa_national_cricket_team,None,SportsTeam
+7,Dean_Elgar,dfE,South_Africa_national_cricket_team,School,None
+8,Dean_Elgar,birthPlace,Welkom,Animal,Place
+9,Dean_Elgar,birthPlace,Anita_O'Day,Animal,Place

@@ -1,0 +1,15 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q472649,place of birth,Australia,Q408,P19,,
+1,Q472649,country,Australia,Q408,P17,[],[]
+2,Q472649,place of birth,Launceston,Q339527,P19,['human'],['big city' 'city']
+3,Q472649,country of citizenship,Australia,Q408,P27,['human'],"['Commonwealth realm' 'country' 'dominion of the British Empire'
+ 'federation' 'sovereign state']"
+4,Q472649,member of sports team,Australia national cricket team,Q142555,P54,['human'],['cricket team' 'national sports team']
+5,Q472649,member of sports team,Tasmania cricket team,Q1133545,P54,['human'],['cricket team']
+6,Q472649,member of sports team,Kolkata Knight Riders,Q1156894,P54,['human'],['sports team']
+7,Q472649,member of sports team,Mumbai Indians,Q1195237,P54,['human'],['cricket team']
+8,Q472649,member of sports team,Surrey County Cricket Club,Q2725632,P54,['human'],['cricket team']
+9,Q472649,member of sports team,Somerset County Cricket Club,Q3489807,P54,['human'],['cricket team']
+10,Q472649,member of sports team,Hobart Hurricanes,Q5874717,P54,['human'],['cricket team']
+11,Q472649,member of sports team,Antigua Hawksbills,Q15895666,P54,['human'],['cricket team']
+12,Q472649,award received,Wisden Cricketer of the Year,Q3569447,P166,['human'],['award']

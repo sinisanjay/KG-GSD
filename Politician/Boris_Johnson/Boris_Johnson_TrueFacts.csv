@@ -1,0 +1,26 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Boris_Johnson,almaMater,"Balliol_College,_Oxford",Person,EducationalInstitution,Boris_Johnson,alumniOf,"Balliol_College,_Oxford",Q180589,educated at,Balliol College,Q805285,P69
+1,Boris_Johnson,residence,10_Downing_Street,Person,Place,Boris_Johnson,homeLocation,10_Downing_Street,Q180589,residence,10 Downing Street,Q169101,P551
+2,Boris_Johnson,spouse,Carrie_Johnson,Person,Person,Boris_Johnson,spouse,Carrie_Johnson,Q180589,spouse,Carrie Johnson,Q64732854,P26
+3,Boris_Johnson,spouse,Marina_Wheeler,Person,Person,Boris_Johnson,spouse,Marina_Wheeler,Q180589,spouse,Marina Wheeler,Q6763940,P26
+4,Boris_Johnson,mother,Charlotte_Johnson_Wahl,Woman,Person,Boris_Johnson,parent,Charlotte_Johnson_Wahl,Q180589,mother,Charlotte Johnson Wahl,Q16106302,P25
+5,Boris_Johnson,relation,Rachel_Johnson,Person,Person,Boris_Johnson,relatedTo,Rachel_Johnson,Q180589,relative,Rachel Johnson,Q7279284,P1038
+6,Boris_Johnson,relation,Helen_Tracy_Lowe-Porter,Person,Person,Boris_Johnson,relatedTo,Helen_Tracy_Lowe-Porter,Q180589,relative,,Q5628593,P1038
+7,Boris_Johnson,relation,Ali_Kemal,Person,Person,Boris_Johnson,relatedTo,Ali_Kemal,Q180589,relative,,Q349199,P1038
+8,Boris_Johnson,relation,Elias_Avery_Lowe,Person,Person,Boris_Johnson,relatedTo,Elias_Avery_Lowe,Q180589,relative,,Q833420,P1038
+9,Boris_Johnson,relation,Julia_Johnson,Person,Person,Boris_Johnson,relatedTo,Julia_Johnson,Q180589,relative,,Q6306488,P1038
+10,Boris_Johnson,relation,Jo_Johnson,Person,Person,Boris_Johnson,relatedTo,Jo_Johnson,Q180589,relative,Jo Johnson,Q728063,P1038
+11,Boris_Johnson,party,Conservative_Party_(UK),None,PoliticalParty,Boris_Johnson,memberOf,Conservative_Party_(UK),Q180589,member of political party,Conservative Party,Q9626,P102
+12,Boris_Johnson,education,Eton_College,Person,None,Boris_Johnson,alumniOf,Eton_College,Q180589,educated at,Eton College,Q192088,P69
+13,Boris_Johnson,spouse,Carrie_Johnson,None,None,Boris_Johnson,spouse,Carrie_Johnson,Q180589,spouse,Carrie Johnson,Q64732854,P26
+14,Boris_Johnson,spouse,Marina_Wheeler,None,None,Boris_Johnson,spouse,Marina_Wheeler,Q180589,spouse,Marina Wheeler,Q6763940,P26
+15,Boris_Johnson,nationality,United_States,Person,Country,Boris_Johnson,nationality,United_States,Q180589,country of citizenship,United States of America,Q30,P27
+16,Boris_Johnson,birthPlace,New_York_City,Animal,Place,Boris_Johnson,birthPlace,New_York_City,Q180589,place of birth,New York City,Q60,P19
+17,Boris_Johnson,residence,West_Kensington,Person,Place,Boris_Johnson,homeLocation,West_Kensington,Q180589,residence,West Kensington,Q3567431,P551
+18,Boris_Johnson,residence,Islington,Person,Place,Boris_Johnson,homeLocation,Islington,Q180589,residence,Islington,Q125163,P551
+19,Boris_Johnson,sibling,Jo_Johnson,Person,Person,Boris_Johnson,sibling,Jo_Johnson,Q180589,sibling,Jo Johnson,Q728063,P3373
+20,Boris_Johnson,sibling,Rachel_Johnson,Person,Person,Boris_Johnson,sibling,Rachel_Johnson,Q180589,sibling,Rachel Johnson,Q7279284,P3373
+21,Boris_Johnson,parent,Stanley_Johnson_(writer),Person,Person,Boris_Johnson,parent,Stanley_Johnson_(writer),Q180589,father,Stanley Johnson,Q7599711,P22
+22,Boris_Johnson,nationality,United_Kingdom,Person,Country,Boris_Johnson,nationality,United_Kingdom,Q180589,country of citizenship,United Kingdom,Q145,P27
+23,Boris_Johnson,award,Ig_Nobel_Prize,None,Award,Boris_Johnson,award,Ig_Nobel_Prize,Q180589,award received,Ig Nobel Prize,Q184253,P166
+24,Boris_Johnson,residence,Crouch_End,Person,Place,Boris_Johnson,homeLocation,Crouch_End,Q180589,residence,Crouch End,Q24502,P551

@@ -1,0 +1,5 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q218115,location,Neuilly-sur-Seine,Q48958,P276,[],[]
+1,Q218115,founded by,,Q45661,P112,,
+2,Q218115,location of formation,Paris,Q90,P740,['brand' 'brick and mortar' 'fashion house' 'privately held company'],['capital']
+3,Q218115,country,France,Q142,P17,['brand' 'brick and mortar' 'fashion house' 'privately held company'],['Mediterranean country' 'country' 'republic' 'sovereign state']

@@ -1,0 +1,10 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q678379,place of birth,East London,Q209537,P19,['human'],['city' 'port settlement']
+1,Q678379,place of birth,,Q130840,P19,,
+2,Q678379,country of citizenship,South Africa,Q258,P27,['human'],['country' 'sovereign state']
+3,Q678379,educated at,Selborne College,Q7447530,P69,['human'],['boarding school']
+4,Q678379,member of sports team,Kolkata Knight Riders,Q1156894,P54,['human'],['sports team']
+5,Q678379,member of sports team,Royal Challengers Bangalore,Q1156897,P54,['human'],['cricket team' 'sports club']
+6,Q678379,member of sports team,South Africa national cricket team,Q1423651,P54,['human'],['national sports team']
+7,Q678379,member of sports team,Warriors,Q7970811,P54,['human'],['cricket team']
+8,Q678379,award received,Wisden Cricketer of the Year,Q3569447,P166,['human'],['award']

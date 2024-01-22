@@ -1,0 +1,16 @@
+,subj,prop,obj,defdomain,defrange
+0,Joe_Root,birthPlace,England,Person,b190933280
+1,Joe_Root,birthPlace,Sheffield,Person,b190933280
+2,Joe_Root,birthPlace,South_Yorkshire,Person,b190933280
+3,Joe_Root,addressCountry,England,,
+4,Joe_Root,birthPlace,England,Person,b190933280
+5,Joe_Root,birthPlace,Sheffield,Person,b190933280
+6,Joe_Root,birthPlace,South_Yorkshire,Person,b190933280
+7,Joe_Root,nationality,United_Kingdom,Person,Country
+8,Joe_Root,alumniOf,Worksop_College,Person,Organization
+9,Joe_Root,birthPlace,Dore,Person,b190933280
+10,Joe_Root,memberOf,England_cricket_team,,
+11,Joe_Root,memberOf,Yorkshire_County_Cricket_Club,,
+12,Joe_Root,memberOf,Sydney_Thunder,,
+13,Joe_Root,alumniOf,King_Ecgbert_School,Person,Organization
+14,Joe_Root,award,Wisden_Cricketers_of_the_Year,,

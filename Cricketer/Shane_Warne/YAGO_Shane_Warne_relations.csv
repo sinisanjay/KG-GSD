@@ -1,0 +1,14 @@
+,subj,prop,obj,defdomain,defrange
+0,Shane_Warne,birthPlace,Victoria_(Australia),Person,b190933280
+1,Shane_Warne,birthPlace,"Upper_Ferntree_Gully,_Victoria",Person,b190933280
+2,Shane_Warne,nationality,Australia,Person,Country
+3,Shane_Warne,alumniOf,"Hampton_High_School,_Melbourne",Person,b190933018
+4,Shane_Warne,deathPlace,Ko_Samui,,
+5,Shane_Warne,nationality,Australia,Person,Country
+6,Shane_Warne,memberOf,Australia_national_cricket_team,,
+7,Shane_Warne,memberOf,Victoria_cricket_team,,
+8,Shane_Warne,memberOf,Rajasthan_Royals,,
+9,Shane_Warne,memberOf,Hampshire_County_Cricket_Club,,
+10,Shane_Warne,memberOf,Melbourne_Stars,,
+11,Shane_Warne,alumniOf,Mentone_Grammar_School,Person,b190933018
+12,Shane_Warne,award,Wisden_Cricketers_of_the_Year,,

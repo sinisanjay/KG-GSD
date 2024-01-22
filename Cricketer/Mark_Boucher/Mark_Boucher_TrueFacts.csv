@@ -1,0 +1,10 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Mark_Boucher,birthPlace,"East_London,_Eastern_Cape",Animal,Place,Mark_Boucher,birthPlace,"East_London,_Eastern_Cape",Q678379,place of birth,East London,Q209537,P19
+1,Mark_Boucher,birthPlace,Eastern_Cape,Animal,Place,Mark_Boucher,birthPlace,Eastern_Cape,Q678379,place of birth,,Q130840,P19
+2,Mark_Boucher,nationality,South_Africa,Person,Country,Mark_Boucher,nationality,South_Africa,Q678379,country of citizenship,South Africa,Q258,P27
+3,Mark_Boucher,almaMater,Selborne_College,Person,EducationalInstitution,Mark_Boucher,alumniOf,Selborne_College,Q678379,educated at,Selborne College,Q7447530,P69
+4,Mark_Boucher,team,Kolkata_Knight_Riders,None,SportsTeam,Mark_Boucher,memberOf,Kolkata_Knight_Riders,Q678379,member of sports team,Kolkata Knight Riders,Q1156894,P54
+5,Mark_Boucher,team,Royal_Challengers_Bangalore,None,SportsTeam,Mark_Boucher,memberOf,Royal_Challengers_Bangalore,Q678379,member of sports team,Royal Challengers Bangalore,Q1156897,P54
+6,Mark_Boucher,team,South_Africa_national_cricket_team,None,SportsTeam,Mark_Boucher,memberOf,South_Africa_national_cricket_team,Q678379,member of sports team,South Africa national cricket team,Q1423651,P54
+7,Mark_Boucher,team,Warriors_(cricket_team),None,SportsTeam,Mark_Boucher,memberOf,Warriors_(cricket_team),Q678379,member of sports team,Warriors,Q7970811,P54
+8,Mark_Boucher,award,Wisden_Cricketers_of_the_Year,None,Award,Mark_Boucher,award,Wisden_Cricketers_of_the_Year,Q678379,award received,Wisden Cricketer of the Year,Q3569447,P166

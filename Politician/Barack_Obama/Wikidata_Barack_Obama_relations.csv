@@ -1,0 +1,34 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q76,place of birth,,Q14353921,P19,,
+1,Q76,place of birth,,Q18094,P19,,
+2,Q76,educated at,Occidental College,Q1346110,P69,['human'],['private not-for-profit educational institution' 'private university']
+3,Q76,educated at,,Q18719675,P69,,
+4,Q76,official residence,,Q35525,P263,[],[]
+5,Q76,spouse,Michelle Obama,Q13133,P26,['human'],['human']
+6,Q76,award received,Nobel Peace Prize,Q35637,P166,['human'],['peace prize']
+7,Q76,member of political party,Democratic Party,Q29552,P102,['human'],['political party']
+8,Q76,father,Barack Obama Sr.,Q649593,P22,['human'],['human']
+9,Q76,mother,Ann Dunham,Q766106,P25,['human'],['human']
+10,Q76,relative,Stanley Armour Dunham,Q2856335,P1038,['human'],['human']
+11,Q76,relative,Lolo Soetoro,Q4115068,P1038,['human'],['human']
+12,Q76,sibling,Maya Soetoro-Ng,Q4382677,P3373,['human'],['human']
+13,Q76,country of citizenship,United States of America,Q30,P27,['human'],"['constitutional republic' 'country' 'democratic republic' 'federal state'
+ 'sovereign state' 'superpowers']"
+14,Q76,educated at,Columbia University,Q49088,P69,['human'],"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university']"
+15,Q76,educated at,Harvard Law School,Q49122,P69,['human'],['graduate school' 'law school']
+16,Q76,educated at,Punahou School,Q3273124,P69,['human'],['university-preparatory school']
+17,Q76,educated at,State Elementary School Menteng 01,Q4122998,P69,['human'],['primary school']
+18,Q76,employer,University of Chicago,Q131252,P108,['human'],"['private not-for-profit educational institution' 'private university'
+ 'research university']"
+19,Q76,employer,Sidley Austin,Q3483312,P108,['human'],['law firm']
+20,Q76,employer,Business International Corporation,Q4537328,P108,['human'],['organization']
+21,Q76,employer,New York Public Interest Research Group,Q4537781,P108,['human'],['business' 'nonprofit organization']
+22,Q76,employer,Gamaliel Foundation,Q4537985,P108,['human'],['nonprofit organization']
+23,Q76,award received,Order of the British Empire,Q14420,P166,['human'],['order of chivalry']
+24,Q76,award received,Order of Abdulaziz al Saud,Q93923,P166,['human'],['order']
+25,Q76,award received,Time Person of the Year,Q207826,P166,['human'],['award']
+26,Q76,award received,Order of the Rajamitrabhorn,Q582930,P166,['human'],['order']
+27,Q76,award received,National Medal of Science,Q737051,P166,['human'],['science award']
+28,Q76,award received,Grammy Award for Best Spoken Word Album,Q5593890,P166,['human'],['Grammy Award']
+29,Q76,award received,Presidential Medal of Distinction,Q7241175,P166,['human'],['order']

@@ -1,0 +1,13 @@
+,subj,prop,obj,defdomain,defrange
+0,London,location,River_Thames,None,Place
+1,London,northWestPlace,River_Thames,Place,Place
+2,London,location,Grand_Union_Canal,None,Place
+3,London,sea,Grand_Union_Canal,Place,Sea
+4,London,country,United_Kingdom,None,Country
+5,London,country,Drought,None,Country
+6,London,award,Legion_of_Honour,None,Award
+7,London,cesarAward,Legion_of_Honour,Artist,Award
+8,London,district,Greater_London,Place,PopulatedPlace
+9,London,officerInCharge,Greater_London,University,Person
+10,London,officialLanguage,English_language,PopulatedPlace,Language
+11,London,officialLanguage,Alternate_party,PopulatedPlace,Language

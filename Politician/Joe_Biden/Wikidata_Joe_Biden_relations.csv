@@ -1,0 +1,30 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q6279,place of birth,,Q271395,P19,,
+1,Q6279,educated at,University of Delaware,Q1068072,P69,['human'],"['land-grant university'
+ 'public educational institution of the United States' 'public university'
+ 'university']"
+2,Q6279,educated at,,Q7663080,P69,,
+3,Q6279,child,Hunter Biden,Q5944264,P40,['human'],['human']
+4,Q6279,child,Beau Biden,Q813332,P40,['human'],['human']
+5,Q6279,spouse,Jill Biden,Q235349,P26,['human'],['human']
+6,Q6279,member of political party,Democratic Party,Q29552,P102,['human'],['political party']
+7,Q6279,political party,,Q327591,P102,[],[]
+8,Q6279,member of political party,Democratic Party,Q29552,P102,['human'],['political party']
+9,Q6279,spouse,Jill Biden,Q235349,P26,['human'],['human']
+10,Q6279,official residence,Wilmington,Q174224,P263,[],[]
+11,Q6279,country of citizenship,United States of America,Q30,P27,['human'],"['constitutional republic' 'country' 'democratic republic'
+ 'federal republic' 'sovereign state' 'superpower']"
+12,Q6279,member of sports team,Delaware Fightin' Blue Hens football,Q5253290,P54,['human'],['American football team' 'college sports team']
+13,Q6279,educated at,Syracuse University,Q617433,P69,['human'],"['private not-for-profit educational institution' 'private university'
+ 'research university']"
+14,Q6279,educated at,Archmere Academy,Q2860580,P69,['human'],['university-preparatory school']
+15,Q6279,employer,University of Pennsylvania,Q49117,P108,['human'],"['Colonial Colleges' 'private not-for-profit educational institution'
+ 'private university' 'research university' 'university']"
+16,Q6279,employer,Widener University,Q3443325,P108,['human'],['private not-for-profit educational institution' 'university']
+17,Q6279,award received,Presidential Medal of Freedom,Q17144,P166,['human'],['award']
+18,Q6279,award received,Time 100,Q604370,P166,['human'],['award']
+19,Q6279,award received,Laetare Medal,Q1800135,P166,['human'],['religion-related award']
+20,Q6279,award received,Nishan-e-Pakistan,Q1820710,P166,['human'],['order']
+21,Q6279,award received,Order of Liberty,Q2469017,P166,['human'],['order']
+22,Q6279,award received,Ellis Island Medal of Honor,Q5365910,P166,['human'],['medal']
+23,Q6279,residence,White House,Q35525,P551,['human'],['civic building' 'mansion' 'official residence' 'tourist attraction']

@@ -1,0 +1,6 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q13572981,located in the administrative territorial entity,,Q12370416,P131,,
+1,Q13572981,located in the administrative territorial entity,,Q12370416,P131,,
+2,Q13572981,country,United States of America,Q30,P17,['public educational institution of the United States' 'university'],"['constitutional republic' 'country' 'democratic republic'
+ 'federal republic' 'sovereign state' 'superpower']"
+3,Q13572981,located in the administrative territorial entity,Mobile,Q79875,P131,['public educational institution of the United States' 'university'],['big city' 'city of the United States' 'county seat']

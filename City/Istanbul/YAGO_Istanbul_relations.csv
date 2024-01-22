@@ -1,0 +1,6 @@
+,subj,prop,obj,defdomain,defrange
+0,Istanbul,addressCountry,Turkey,,
+1,Byzantium,containedInPlace,Byzantium,,
+2,Byzantium,location,Black_Sea,,
+3,Byzantium,location,Sea_of_Marmara,,
+4,Byzantium,location,Golden_Horn,,

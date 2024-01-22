@@ -1,0 +1,6 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Huawei,locationCity,Shenzhen,Organisation,City,Huawei,location,Shenzhen,Q160120,location,Shenzhen,Q15174,P276
+1,Huawei,subsidiary,HiSilicon,Company,Company,Huawei,subOrganization,HiSilicon,Q160120,subsidiary,HiSilicon,Q3135124,P355
+2,Huawei,locationCountry,China,None,Country,Huawei,location,China,Q160120,location,People's Republic of China,Q148,P276
+3,Huawei,foundedBy,Ren_Zhengfei,None,Agent,Huawei,founder,Ren_Zhengfei,Q160120,founded by,Ren Zhengfei,Q712802,P112
+4,Huawei,foundationPlace,Shenzhen,Organisation,City,Huawei,foundingLocation,Shenzhen,Q160120,location of formation,Shenzhen,Q15174,P740

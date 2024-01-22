@@ -1,0 +1,13 @@
+,subj,prop,obj,defdomain,defrange
+0,New_York_City,addressCountry,United_States,,
+1,New_York_City,containsPlace,Staten_Island,Place,Place
+2,New_York_City,containedInPlace,New_York_metropolitan_area,Place,b190933582
+3,New_York_City,hasOfficialLanguage,English_language,,
+4,New_York_City,location,Atlantic_Ocean,,
+5,New_York_City,location,Hudson_River,,
+6,New_York_City,location,"East_River,_Nova_Scotia",,
+7,New_York_City,location,Harlem_River,,
+8,New_York_City,location,Long_Island_Sound,,
+9,New_York_City,location,Bronx_River,,
+10,New_York_City,location,Upper_New_York_Bay,,
+11,New_York_City,location,Lower_New_York_Bay,,

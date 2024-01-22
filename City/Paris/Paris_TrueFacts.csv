@@ -1,0 +1,10 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Paris,country,France,None,Country,Paris,addressCountry,France,Q90,country,France,Q142,P17
+1,Paris,party,Socialist_Party_(France),None,None,Paris,memberOf,Socialist_Party_(France),Q90,political party,,Q170972,P102
+2,Paris,officialLanguage,French_language,PopulatedPlace,Language,Paris,hasOfficialLanguage,French_language,Q90,official language,French,Q150,P37
+3,Paris,district,Grand_Paris,Place,PopulatedPlace,Paris,containedInPlace,Grand_Paris,Q90,located in the administrative territorial entity,Grand Paris,Q16665915,P131
+4,Paris,location,Seine,None,Place,Paris,location,Seine,Q90,located in or next to body of water,Seine,Q1471,P206
+5,Paris,location,Bassin_de_la_Villette,None,Place,Paris,location,Bassin_de_la_Villette,Q90,located in or next to body of water,Bassin de la Villette,Q810526,P206
+6,Paris,location,Canal_Saint-Martin,None,Place,Paris,location,Canal_Saint-Martin,Q90,located in or next to body of water,Canal Saint-Martin,Q860172,P206
+7,Paris,location,Canal_de_l'Ourcq,None,Place,Paris,location,Canal_de_l'Ourcq,Q90,located in or next to body of water,Canal de l'Ourcq,Q1032646,P206
+14,Paris,language,French_language,None,None,Paris,inLanguage,French_language,Q90,language used,French,Q150,P2936

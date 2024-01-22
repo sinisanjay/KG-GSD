@@ -1,0 +1,18 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q90,country,France,Q142,P17,"['capital city' 'college town' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city']",['Mediterranean country' 'country' 'republic' 'sovereign state']
+1,Q90,political party,,Q170972,P102,[],[]
+2,Q90,official language,French,Q150,P37,"['capital city' 'college town' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city']",['language' 'modern language' 'natural language']
+3,Q90,located in the administrative territorial entity,Grand Paris,Q16665915,P131,"['capital city' 'college town' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city']",['Métropole']
+4,Q90,located in or next to body of water,Seine,Q1471,P206,"['capital city' 'college town' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city']",['main stream']
+5,Q90,located in or next to body of water,Bassin de la Villette,Q810526,P206,"['capital city' 'college town' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city']",['artificial lake' 'canal']
+6,Q90,located in or next to body of water,Canal Saint-Martin,Q860172,P206,"['capital city' 'college town' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city']",['canal']
+7,Q90,located in or next to body of water,Canal de l'Ourcq,Q1032646,P206,"['capital city' 'college town' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city']",['canal']
+14,Q90,language used,French,Q150,P2936,"['capital city' 'college town' 'global city' 'largest city' 'megacity'
+ 'metropolis' 'million city']",['language' 'modern language' 'natural language']

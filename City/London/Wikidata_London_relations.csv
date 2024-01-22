@@ -1,0 +1,14 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q84,country,United Kingdom,Q145,P17,"['capital city' 'city' 'financial centre' 'global city' 'largest city'
+ 'megacity' 'metropolis' 'million city']","['Commonwealth realm' 'OECD country' 'colonial power' 'country'
+ 'island nation' 'realm' 'sovereign state']"
+1,Q84,located in the administrative territorial entity,Greater London,Q23306,P131,"['capital city' 'city' 'financial centre' 'global city' 'largest city'
+ 'megacity' 'metropolis' 'million city']",['ceremonial county of England']
+2,Q84,official language,English,Q1860,P37,"['capital city' 'city' 'financial centre' 'global city' 'largest city'
+ 'megacity' 'metropolis' 'million city']",['language' 'modern language' 'natural language']
+3,Q84,award received,Legion of Honour,Q163700,P166,"['capital city' 'city' 'financial centre' 'global city' 'largest city'
+ 'megacity' 'metropolis' 'million city']",['state order']
+4,Q84,located in or next to body of water,River Thames,Q19686,P206,"['capital city' 'city' 'financial centre' 'global city' 'largest city'
+ 'megacity' 'metropolis' 'million city']",['river']
+5,Q84,located in or next to body of water,Grand Union Canal,Q19914,P206,"['capital city' 'city' 'financial centre' 'global city' 'largest city'
+ 'megacity' 'metropolis' 'million city']",['canal']

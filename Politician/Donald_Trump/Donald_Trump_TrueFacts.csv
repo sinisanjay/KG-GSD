@@ -1,0 +1,30 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Donald_Trump,birthPlace,Queens,Person,Place,Donald_Trump,birthPlace,Queens,Q22686,place of birth,,Q18424,P19
+1,Donald_Trump,birthPlace,New_York_City,Person,Place,Donald_Trump,birthPlace,New_York_City,Q22686,place of birth,New York City,Q60,P19
+2,Donald_Trump,almaMater,Fordham_University,Person,EducationalInstitution,Donald_Trump,alumniOf,Fordham_University,Q22686,educated at,Fordham University,Q130965,P69
+3,Donald_Trump,almaMater,University_of_Pennsylvania,Person,EducationalInstitution,Donald_Trump,alumniOf,University_of_Pennsylvania,Q22686,educated at,University of Pennsylvania,Q49117,P69
+4,Donald_Trump,child,Eric_Trump,Person,Person,Donald_Trump,children,Eric_Trump,Q22686,child,Eric Trump,Q3731533,P40
+5,Donald_Trump,child,Ivanka_Trump,Person,Person,Donald_Trump,children,Ivanka_Trump,Q22686,child,Ivanka Trump,Q239411,P40
+6,Donald_Trump,parent,Fred_Trump,Person,Person,Donald_Trump,parent,Fred_Trump,Q22686,father,Fred Trump,Q3752663,P22
+7,Donald_Trump,residence,Manhattan,Person,Place,Donald_Trump,homeLocation,Manhattan,Q22686,official residence,,Q11299,P263
+8,Donald_Trump,residence,New_York_City,Person,Place,Donald_Trump,homeLocation,New_York_City,Q22686,official residence,New York City,Q60,P263
+9,Donald_Trump,spouse,Melania_Trump,Person,Person,Donald_Trump,spouse,Melania_Trump,Q22686,spouse,Melania Trump,Q432473,P26
+10,Donald_Trump,spouse,Marla_Maples,Person,Person,Donald_Trump,spouse,Marla_Maples,Q22686,spouse,,Q2597050,P26
+11,Donald_Trump,spouse,Ivana_Trump,Person,Person,Donald_Trump,spouse,Ivana_Trump,Q22686,spouse,,Q242351,P26
+12,Donald_Trump,party,Republican_Party_(United_States),None,PoliticalParty,Donald_Trump,memberOf,Republican_Party_(United_States),Q22686,member of political party,Republican Party,Q29468,P102
+13,Donald_Trump,residence,White_House,Person,Place,Donald_Trump,homeLocation,White_House,Q22686,residence,White House,Q35525,P551
+14,Donald_Trump,nationality,United_States,Person,Country,Donald_Trump,nationality,United_States,Q22686,country of citizenship,United States of America,Q30,P27
+15,Donald_Trump,almaMater,Wharton_School_of_the_University_of_Pennsylvania,Person,EducationalInstitution,Donald_Trump,alumniOf,Wharton_School_of_the_University_of_Pennsylvania,Q22686,educated at,The Wharton School,Q1329269,P69
+16,Donald_Trump,almaMater,New_York_Military_Academy,Person,EducationalInstitution,Donald_Trump,alumniOf,New_York_Military_Academy,Q22686,educated at,New York Military Academy,Q7013764,P69
+17,Donald_Trump,almaMater,The_Kew-Forest_School,Person,EducationalInstitution,Donald_Trump,alumniOf,The_Kew-Forest_School,Q22686,educated at,The Kew-Forest School,Q7744153,P69
+18,Donald_Trump,occupation,Business_magnate,None,PersonFunction,Donald_Trump,hasOccupation,Business_magnate,Q22686,occupation,business magnate,Q911554,P106
+19,Donald_Trump,award,WWE_Hall_of_Fame,None,Award,Donald_Trump,award,WWE_Hall_of_Fame,Q22686,award received,WWE Hall of Fame,Q36001,P166
+20,Donald_Trump,award,Order_of_Abdulaziz_al_Saud,None,Award,Donald_Trump,award,Order_of_Abdulaziz_Al_Saud,Q22686,award received,Order of Abdulaziz al Saud,Q93923,P166
+21,Donald_Trump,award,Time_Person_of_the_Year,None,Award,Donald_Trump,award,Time_Person_of_the_Year,Q22686,award received,Time Person of the Year,Q207826,P166
+22,Donald_Trump,award,Golden_Raspberry_Award_for_Worst_Supporting_Actor,None,Award,Donald_Trump,award,Golden_Raspberry_Award_for_Worst_Supporting_Actor,Q22686,award received,Golden Raspberry Award for Worst Supporting Actor,Q641316,P166
+23,Donald_Trump,award,Ellis_Island_Medal_of_Honor,None,Award,Donald_Trump,award,Ellis_Island_Medal_of_Honor,Q22686,award received,Ellis Island Medal of Honor,Q5365910,P166
+24,Donald_Trump,award,Gaming_Hall_of_Fame,None,Award,Donald_Trump,award,Gaming_Hall_of_Fame,Q22686,award received,Gaming Hall of Fame,Q5520192,P166
+25,Donald_Trump,award,Jewish_National_Fund_Tree_of_Life_Award,None,Award,Donald_Trump,award,Jewish_National_Fund_Tree_of_Life_Award,Q22686,award received,Jewish National Fund Tree of Life Award,Q6189894,P166
+30,Donald_Trump,sibling,Maryanne_Trump_Barry,Person,Person,Donald_Trump,sibling,Maryanne_Trump_Barry,Q22686,sibling,Maryanne Trump Barry,Q736223,P3373
+32,Donald_Trump,relation,John_G._Trump,Person,Person,Donald_Trump,relatedTo,John_G._Trump,Q22686,relative,John G. Trump,Q1576675,P1038
+33,Donald_Trump,relation,Jared_Kushner,Person,Person,Donald_Trump,relatedTo,Jared_Kushner,Q22686,relative,Jared Kushner,Q13628723,P1038

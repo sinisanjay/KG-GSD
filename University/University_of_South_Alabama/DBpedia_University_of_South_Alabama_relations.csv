@@ -1,0 +1,9 @@
+,subj,prop,obj,defdomain,defrange
+0,University_of_South_Alabama,city,"Mobile,_Alabama",None,None
+1,University_of_South_Alabama,educationSystem,"Mobile,_Alabama",EducationalInstitution,None
+2,University_of_South_Alabama,country,United_States,None,Country
+3,University_of_South_Alabama,country,12th_century,None,Country
+4,University_of_South_Alabama,city,"Mobile,_Alabama",None,City
+5,University_of_South_Alabama,peabodyAward,"Mobile,_Alabama",Comedian,Award
+6,University_of_South_Alabama,city,"Mobile,_Alabama",None,City
+7,University_of_South_Alabama,city,7_Up,None,City

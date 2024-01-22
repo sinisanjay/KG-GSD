@@ -1,0 +1,5 @@
+,subj,prop,obj,defdomain,defrange
+0,Chanel,location,Neuilly-sur-Seine,,
+1,Chanel,founder,Coco_Chanel,Organization,Person
+2,Chanel,foundingLocation,Paris,Organization,Place
+3,Chanel,addressCountry,France,,

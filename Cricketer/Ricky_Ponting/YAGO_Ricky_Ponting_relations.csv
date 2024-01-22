@@ -1,0 +1,14 @@
+,subj,prop,obj,defdomain,defrange
+0,Ricky_Ponting,birthPlace,"Launceston,_Tasmania",Person,b190933280
+1,Ricky_Ponting,birthPlace,Australia,Person,b190933280
+2,Ricky_Ponting,addressCountry,Australia,,
+3,Ricky_Ponting,nationality,Australia,Person,Country
+4,Ricky_Ponting,memberOf,Australia_national_cricket_team,,
+5,Ricky_Ponting,memberOf,Tasmania_cricket_team,,
+6,Ricky_Ponting,memberOf,Kolkata_Knight_Riders,,
+7,Ricky_Ponting,memberOf,Mumbai_Indians,,
+8,Ricky_Ponting,memberOf,Surrey_County_Cricket_Club,,
+9,Ricky_Ponting,memberOf,Somerset_County_Cricket_Club,,
+10,Ricky_Ponting,memberOf,Hobart_Hurricanes,,
+11,Ricky_Ponting,memberOf,Antigua_Hawksbills,,
+12,Ricky_Ponting,award,Wisden_Cricketers_of_the_Year,,

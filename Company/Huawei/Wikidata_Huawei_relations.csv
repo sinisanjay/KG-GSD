@@ -1,0 +1,6 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q160120,location,Shenzhen,Q15174,P276,[],[]
+1,Q160120,subsidiary,HiSilicon,Q3135124,P355,['business' 'enterprise' 'privately held company' 'technology company'],['business' 'enterprise']
+2,Q160120,location,People's Republic of China,Q148,P276,[],[]
+3,Q160120,founded by,Ren Zhengfei,Q712802,P112,['business' 'enterprise' 'privately held company' 'technology company'],['human']
+4,Q160120,location of formation,Shenzhen,Q15174,P740,,

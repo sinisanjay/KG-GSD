@@ -1,0 +1,30 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q180589,educated at,Balliol College,Q805285,P69,['human'],['college of the University of Oxford' 'university building']
+1,Q180589,residence,10 Downing Street,Q169101,P551,['human'],['seat of government' 'terrace house']
+2,Q180589,spouse,Carrie Johnson,Q64732854,P26,['human'],['human']
+3,Q180589,spouse,Marina Wheeler,Q6763940,P26,['human'],['human']
+4,Q180589,mother,Charlotte Johnson Wahl,Q16106302,P25,['human'],['human']
+5,Q180589,relative,Rachel Johnson,Q7279284,P1038,[],[]
+6,Q180589,relative,,Q5628593,P1038,[],[]
+7,Q180589,relative,,Q349199,P1038,[],[]
+8,Q180589,relative,,Q833420,P1038,[],[]
+9,Q180589,relative,,Q6306488,P1038,[],[]
+10,Q180589,relative,Jo Johnson,Q728063,P1038,[],[]
+11,Q180589,member of political party,Conservative Party,Q9626,P102,['human'],['political party']
+12,Q180589,educated at,Eton College,Q192088,P69,['human'],"['boarding school' ""boys' school"" 'independent school' 'public school']"
+13,Q180589,spouse,Carrie Johnson,Q64732854,P26,['human'],['human']
+14,Q180589,spouse,Marina Wheeler,Q6763940,P26,['human'],['human']
+15,Q180589,country of citizenship,United States of America,Q30,P27,['human'],"['constitutional republic' 'country' 'democratic republic'
+ 'federal republic' 'sovereign state' 'superpower']"
+16,Q180589,place of birth,New York City,Q60,P19,['human'],"['big city' 'city' 'city in the state of New York'
+ 'city of the United States' 'global city' 'largest city' 'million city'
+ 'port settlement']"
+17,Q180589,residence,West Kensington,Q3567431,P551,['human'],['area of London']
+18,Q180589,residence,Islington,Q125163,P551,['human'],['area of London']
+19,Q180589,sibling,Jo Johnson,Q728063,P3373,['human'],['human']
+20,Q180589,sibling,Rachel Johnson,Q7279284,P3373,['human'],['human']
+21,Q180589,father,Stanley Johnson,Q7599711,P22,['human'],['human']
+22,Q180589,country of citizenship,United Kingdom,Q145,P27,['human'],"['Commonwealth realm' 'colonial power' 'country' 'island nation' 'realm'
+ 'sovereign state']"
+23,Q180589,award received,Ig Nobel Prize,Q184253,P166,['human'],['ironic award' 'parody']
+24,Q180589,residence,Crouch End,Q24502,P551,['human'],['area of London' 'conservation area' 'neighborhood']

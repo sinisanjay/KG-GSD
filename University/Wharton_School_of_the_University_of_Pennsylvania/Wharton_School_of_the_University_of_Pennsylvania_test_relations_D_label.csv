@@ -1,0 +1,13 @@
+,subj,prop,obj,defdomain,defrange,label,remark
+0,Wharton_School_of_the_University_of_Pennsylvania,parent,University_of_Pennsylvania,None,None,1,
+1,Wharton_School_of_the_University_of_Pennsylvania,vicePrincipalLabel,University_of_Pennsylvania,School,None,0,WP-DR
+2,Wharton_School_of_the_University_of_Pennsylvania,country,United_States,None,Country,1,
+3,Wharton_School_of_the_University_of_Pennsylvania,headteacher,United_States,School,Person,0,WP-D
+4,Wharton_School_of_the_University_of_Pennsylvania,city,Philadelphia,None,City,1,
+5,Wharton_School_of_the_University_of_Pennsylvania,city,Lord_Mayor_of_London,None,City,0,WE-T
+6,Wharton_School_of_the_University_of_Pennsylvania,location,Philadelphia,None,Place,1,
+7,Wharton_School_of_the_University_of_Pennsylvania,notableIdea,Philadelphia,Person,None,0,WP
+8,Wharton_School_of_the_University_of_Pennsylvania,city,Philadelphia,None,None,1,
+9,Wharton_School_of_the_University_of_Pennsylvania,senator,Philadelphia,None,Person,0,WP
+10,Wharton_School_of_the_University_of_Pennsylvania,foundedBy,Joseph_Wharton,None,Agent,1,
+11,Wharton_School_of_the_University_of_Pennsylvania,foundedBy,13th_century_BC,None,Agent,0,WE

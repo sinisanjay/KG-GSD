@@ -1,0 +1,10 @@
+,subj,prop,obj,defdomain,defrange
+0,Mark_Boucher,birthPlace,"East_London,_Eastern_Cape",Person,b190933280
+1,Mark_Boucher,birthPlace,Eastern_Cape,Person,b190933280
+2,Mark_Boucher,nationality,South_Africa,Person,Country
+3,Mark_Boucher,alumniOf,Selborne_College,Person,Organization
+4,Mark_Boucher,memberOf,Kolkata_Knight_Riders,,
+5,Mark_Boucher,memberOf,Royal_Challengers_Bangalore,,
+6,Mark_Boucher,memberOf,South_Africa_national_cricket_team,,
+7,Mark_Boucher,memberOf,Warriors_(cricket_team),,
+8,Mark_Boucher,award,Wisden_Cricketers_of_the_Year,,

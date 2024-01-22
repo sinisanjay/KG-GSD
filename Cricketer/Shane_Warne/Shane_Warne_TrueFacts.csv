@@ -1,0 +1,14 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,Shane_Warne,birthPlace,Victoria_(Australia),Animal,Place,Shane_Warne,birthPlace,Victoria_(Australia),Q555240,place of birth,,Q12093185,P19
+1,Shane_Warne,birthPlace,"Upper_Ferntree_Gully,_Victoria",Animal,Place,Shane_Warne,birthPlace,"Upper_Ferntree_Gully,_Victoria",Q555240,place of birth,Upper Ferntree Gully,Q7898645,P19
+2,Shane_Warne,nationality,Australia,Person,Country,Shane_Warne,nationality,Australia,Q555240,country of citizenship,,Q25907685,P27
+3,Shane_Warne,almaMater,"Hampton_High_School,_Melbourne",Person,EducationalInstitution,Shane_Warne,alumniOf,"Hampton_High_School,_Melbourne",Q555240,educated at,"Hampton High School, Melbourne",Q5646212,P69
+4,Shane_Warne,deathPlace,Ko_Samui,Animal,Place,Shane_Warne,deathPlace,Ko_Samui,Q555240,place of death,Ko Samui,Q270375,P20
+5,Shane_Warne,nationality,Australia,Person,Country,Shane_Warne,nationality,Australia,Q555240,country of citizenship,Australia,Q408,P27
+6,Shane_Warne,team,Australia_national_cricket_team,None,SportsTeam,Shane_Warne,memberOf,Australia_national_cricket_team,Q555240,member of sports team,Australia national cricket team,Q142555,P54
+7,Shane_Warne,team,Victoria_cricket_team,None,SportsTeam,Shane_Warne,memberOf,Victoria_cricket_team,Q555240,member of sports team,Victoria cricket team,Q1136066,P54
+8,Shane_Warne,team,Rajasthan_Royals,None,SportsTeam,Shane_Warne,memberOf,Rajasthan_Royals,Q555240,member of sports team,Rajasthan Royals,Q1209990,P54
+9,Shane_Warne,team,Hampshire_County_Cricket_Club,None,SportsTeam,Shane_Warne,memberOf,Hampshire_County_Cricket_Club,Q555240,member of sports team,Hampshire County Cricket Club,Q3126578,P54
+10,Shane_Warne,team,Melbourne_Stars,None,SportsTeam,Shane_Warne,memberOf,Melbourne_Stars,Q555240,member of sports team,Melbourne Stars,Q6811888,P54
+11,Shane_Warne,almaMater,Mentone_Grammar_School,Person,EducationalInstitution,Shane_Warne,alumniOf,Mentone_Grammar_School,Q555240,educated at,Mentone Grammar School,Q6817584,P69
+12,Shane_Warne,award,Wisden_Cricketers_of_the_Year,None,Award,Shane_Warne,award,Wisden_Cricketers_of_the_Year,Q555240,award received,Wisden Cricketer of the Year,Q3569447,P166

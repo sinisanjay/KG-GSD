@@ -1,0 +1,12 @@
+,subj,prop,obj,defdomain,defrange
+0,FedEx,location,"Memphis,_Tennessee",,
+1,FedEx,subOrganization,FedEx_Ground,Organization,b190936258
+2,FedEx,subOrganization,FedEx,Organization,b190936258
+3,FedEx,subOrganization,FedEx_Express,Organization,b190936258
+4,FedEx,subOrganization,FedEx_Office,Organization,b190936258
+5,FedEx,founder,Frederick_W._Smith,Organization,Person
+6,FedEx,location,United_States,,
+7,FedEx,foundingLocation,"Little_Rock,_Arkansas",Organization,Place
+8,FedEx,addressCountry,United_States,,
+9,FedEx,isPartOf,Dow_Jones_Transportation_Average,,
+10,FedEx,isPartOf,S&P_100,,

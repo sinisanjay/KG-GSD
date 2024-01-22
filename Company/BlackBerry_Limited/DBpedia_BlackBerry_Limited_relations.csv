@@ -1,0 +1,15 @@
+,subj,prop,obj,defdomain,defrange
+0,BlackBerry_Limited,locationCity,"Waterloo,_Ontario",Organisation,City
+1,BlackBerry_Limited,foundationPlace,"Waterloo,_Ontario",Organisation,City
+2,BlackBerry_Limited,foundationPlace,"Waterloo,_Ontario",Organisation,City
+3,BlackBerry_Limited,regionServed,"Waterloo,_Ontario",Organisation,Place
+4,BlackBerry_Limited,foundedBy,Mike_Lazaridis,None,Agent
+5,BlackBerry_Limited,foundedBy,Alex_Ferguson,None,Agent
+6,BlackBerry_Limited,country,Canada,None,Country
+7,BlackBerry_Limited,incumbent,Canada,None,Person
+8,BlackBerry_Limited,founders,Mike_Lazaridis,None,None
+9,BlackBerry_Limited,flagBearer,Mike_Lazaridis,OlympicResult,Person
+10,BlackBerry_Limited,locationCity,Ontario,Organisation,City
+11,BlackBerry_Limited,boxerCategory,Ontario,Boxer,BoxingCategory
+12,BlackBerry_Limited,locationCountry,Canada,None,Country
+13,BlackBerry_Limited,locationCountry,Meelin_GAA,None,Country

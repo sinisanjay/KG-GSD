@@ -1,0 +1,7 @@
+,subj,prop,obj,defdomain,defrange
+0,Wharton_School_of_the_University_of_Pennsylvania,containedInPlace,Philadelphia,Place,Place
+1,Wharton_School_of_the_University_of_Pennsylvania,containedInPlace,Philadelphia,Place,Place
+2,Wharton_School_of_the_University_of_Pennsylvania,parent,University_of_Pennsylvania,,
+3,Wharton_School_of_the_University_of_Pennsylvania,founder,Joseph_Wharton,Organization,Person
+4,Wharton_School_of_the_University_of_Pennsylvania,location,Philadelphia,None,Place
+5,Wharton_School_of_the_University_of_Pennsylvania,addressCountry,United_States,,

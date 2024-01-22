@@ -1,0 +1,10 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q1329269,located in the administrative territorial entity,Philadelphia,Q1345,P131,['business school' 'private university'],"['city of Pennsylvania' 'county seat'
+ 'home rule municipality of Pennsylvania' 'million city']"
+1,Q1329269,located in the administrative territorial entity,Philadelphia,Q1345,P131,['business school' 'private university'],"['city of Pennsylvania' 'county seat'
+ 'home rule municipality of Pennsylvania' 'million city']"
+2,Q1329269,father,University of Pennsylvania,Q49117,P22,[],[]
+3,Q1329269,founded by,Joseph Wharton,Q707186,P112,['business school' 'private university'],['human']
+4,Q1329269,location,Philadelphia,Q1345,P276,[],[]
+5,Q1329269,country,United States of America,Q30,P17,['business school' 'private university'],"['constitutional republic' 'country' 'democratic republic'
+ 'federal republic' 'sovereign state' 'superpower']"

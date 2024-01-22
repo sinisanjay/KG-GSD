@@ -1,0 +1,6 @@
+,subj,prop,obj,defdomain,defrange
+0,Huawei,location,Shenzhen,,
+1,Huawei,subOrganization,HiSilicon,Organization,Organization
+2,Huawei,location,China,,
+3,Huawei,founder,Ren_Zhengfei,Organization,Person
+4,Huawei,foundingLocation,Shenzhen,Organization,Place

@@ -1,0 +1,13 @@
+,subj,prop,obj,defdomain,defrange
+0,AirAsia,subOrganization,AirAsia_Japan,Organization,b190936258
+1,AirAsia,subOrganization,Philippines_AirAsia,Organization,b190936258
+2,AirAsia,subOrganization,Thai_AirAsia,Organization,b190936258
+3,AirAsia,subOrganization,Indonesia_AirAsia,Organization,b190936258
+4,AirAsia,subOrganization,AirAsia_Zest,Organization,b190936258
+5,AirAsia,subOrganization,AirAsia_India,Organization,b190936258
+6,AirAsia,subOrganization,AirAsia_X,Organization,b190936258
+7,AirAsia,subOrganization,Indonesia_AirAsia_X,Organization,b190936258
+8,AirAsia,subOrganization,Thai_AirAsia_X,Organization,b190936258
+9,AirAsia,parent,Tune_Group,,
+10,AirAsia,foundingLocation,Kuala_Lumpur,Organization,b190934216
+11,AirAsia,addressCountry,Malaysia,,

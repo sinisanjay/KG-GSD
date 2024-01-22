@@ -1,0 +1,12 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,FedEx,locationCity,"Memphis,_Tennessee",Organisation,City,FedEx,location,"Memphis,_Tennessee",Q459477,location,Memphis,Q16563,P276
+1,FedEx,subsidiary,FedEx_Ground,Company,Company,FedEx,subOrganization,FedEx_Ground,Q459477,subsidiary,FedEx Ground,Q5439886,P355
+2,FedEx,subsidiary,FedEx,Company,Company,FedEx,subOrganization,FedEx,Q459477,subsidiary,,Q459477,P355
+3,FedEx,subsidiary,FedEx_Express,Company,Company,FedEx,subOrganization,FedEx_Express,Q459477,subsidiary,FedEx Express,Q782557,P355
+4,FedEx,subsidiary,FedEx_Office,Company,Company,FedEx,subOrganization,FedEx_Office,Q459477,subsidiary,FedEx Office,Q474379,P355
+5,FedEx,foundedBy,Frederick_W._Smith,None,Agent,FedEx,founder,Frederick_W._Smith,Q459477,founded by,Frederick W. Smith,Q324086,P112
+6,FedEx,locationCountry,United_States,None,Country,FedEx,location,United_States,Q459477,location,United States of America,Q30,P276
+7,FedEx,foundationPlace,"Little_Rock,_Arkansas",Organisation,City,FedEx,foundingLocation,"Little_Rock,_Arkansas",Q459477,location of formation,Little Rock,Q33405,P740
+8,FedEx,country,United_States,None,Country,FedEx,addressCountry,United_States,Q459477,country,United States of America,Q30,P17
+9,FedEx,isPartOf,Dow_Jones_Transportation_Average,None,None,FedEx,isPartOf,Dow_Jones_Transportation_Average,Q459477,part of,Dow Jones Transportation Average,Q688712,P361
+10,FedEx,isPartOf,S&P_100,None,None,FedEx,isPartOf,S&P_100,Q459477,part of,S&P 100,Q1546793,P361

@@ -1,0 +1,7 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,London,country,United_Kingdom,None,Country,London,addressCountry,United_Kingdom,Q84,country,United Kingdom,Q145,P17
+1,London,district,Greater_London,Place,PopulatedPlace,London,containedInPlace,Greater_London,Q84,located in the administrative territorial entity,Greater London,Q23306,P131
+2,London,officialLanguage,English_language,PopulatedPlace,Language,Londinium,hasOfficialLanguage,English_language,Q84,official language,English,Q1860,P37
+3,London,award,Legion_of_Honour,None,Award,Londinium,award,Legion_of_Honour,Q84,award received,Legion of Honour,Q163700,P166
+4,London,location,River_Thames,None,Place,Londinium,location,River_Thames,Q84,located in or next to body of water,River Thames,Q19686,P206
+5,London,location,Grand_Union_Canal,None,Place,Londinium,location,Grand_Union_Canal,Q84,located in or next to body of water,Grand Union Canal,Q19914,P206

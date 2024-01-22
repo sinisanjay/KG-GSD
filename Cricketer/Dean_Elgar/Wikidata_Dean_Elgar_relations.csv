@@ -1,0 +1,6 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q5246134,place of birth,Welkom,Q1015631,P19,['human'],['town']
+1,Q5246134,country of citizenship,South Africa,Q258,P27,['human'],['country' 'sovereign state']
+2,Q5246134,member of sports team,South Africa national cricket team,Q1423651,P54,['human'],['national sports team']
+3,Q5246134,member of sports team,Surrey County Cricket Club,Q2725632,P54,['human'],['cricket team']
+4,Q5246134,member of sports team,Somerset County Cricket Club,Q3489807,P54,['human'],['cricket team']

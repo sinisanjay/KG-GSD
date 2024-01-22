@@ -1,0 +1,8 @@
+,subj,propLabel,objLabel,obj,prop,dom,range
+0,Q406,country,Turkey,Q43,P17,['million city'],"['Mediterranean country' 'OECD country' 'country' 'regional power'
+ 'secular state' 'social state' 'sovereign state'
+ 'transcontinental country']"
+1,Q406,located in the administrative territorial entity,Istanbul Province,Q534799,P131,['million city'],['province of Turkey']
+2,Q406,located in or next to body of water,Black Sea,Q166,P206,['million city'],['mediterranean sea' 'sea']
+3,Q406,located in or next to body of water,Sea of Marmara,Q35367,P206,['million city'],['mediterranean sea' 'sea']
+4,Q406,located in or next to body of water,Golden Horn,Q179839,P206,['million city'],['ria']

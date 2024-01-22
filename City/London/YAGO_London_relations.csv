@@ -1,0 +1,7 @@
+,subj,prop,obj,defdomain,defrange
+0,London,addressCountry,United_Kingdom,,
+1,London,containedInPlace,Greater_London,Place,b190933582
+2,Londinium,hasOfficialLanguage,English_language,,
+3,Londinium,award,Legion_of_Honour,,
+4,Londinium,location,River_Thames,,
+5,Londinium,location,Grand_Union_Canal,,

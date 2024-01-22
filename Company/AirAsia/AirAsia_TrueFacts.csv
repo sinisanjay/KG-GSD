@@ -1,0 +1,13 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,AirAsia,subsidiary,AirAsia_Japan,Company,Company,AirAsia,subOrganization,AirAsia_Japan,Q406643,subsidiary,AirAsia Japan,Q1376644,P355
+1,AirAsia,subsidiary,Philippines_AirAsia,Company,Company,AirAsia,subOrganization,Philippines_AirAsia,Q406643,subsidiary,AirAsia Philippines,Q1319117,P355
+2,AirAsia,subsidiary,Thai_AirAsia,Company,Company,AirAsia,subOrganization,Thai_AirAsia,Q406643,subsidiary,Thai AirAsia,Q1148568,P355
+3,AirAsia,subsidiary,Indonesia_AirAsia,Company,Company,AirAsia,subOrganization,Indonesia_AirAsia,Q406643,subsidiary,AirAsia Indonesia,Q745971,P355
+4,AirAsia,subsidiary,AirAsia_Zest,Company,Company,AirAsia,subOrganization,AirAsia_Zest,Q406643,subsidiary,,Q196817,P355
+5,AirAsia,subsidiary,AirAsia_India,Company,Company,AirAsia,subOrganization,AirAsia_India,Q406643,subsidiary,AirAsia India,Q5103383,P355
+6,AirAsia,subsidiary,AirAsia_X,Company,Company,AirAsia,subOrganization,AirAsia_X,Q406643,subsidiary,AirAsia X,Q406632,P355
+7,AirAsia,subsidiary,Indonesia_AirAsia_X,Company,Company,AirAsia,subOrganization,Indonesia_AirAsia_X,Q406643,subsidiary,,Q18327499,P355
+8,AirAsia,subsidiary,Thai_AirAsia_X,Company,Company,AirAsia,subOrganization,Thai_AirAsia_X,Q406643,subsidiary,,Q16308074,P355
+9,AirAsia,parent,Tune_Group,None,None,AirAsia,parent,Tune_Group,Q406643,father,Tune Group,Q7852926,P22
+10,AirAsia,foundationPlace,Kuala_Lumpur,Organisation,City,AirAsia,foundingLocation,Kuala_Lumpur,Q406643,location of formation,Kuala Lumpur,Q1865,P740
+11,AirAsia,country,Malaysia,None,Country,AirAsia,addressCountry,Malaysia,Q406643,country,Malaysia,Q833,P17

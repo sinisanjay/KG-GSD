@@ -1,0 +1,3 @@
+,d_subj,d_prop,d_obj,d_dom,d_range,y_subj,y_prop,y_obj,w_subj,w_prop,w_obj,w_obj_id,w_prop_id
+0,University_of_South_Alabama,city,"Mobile,_Alabama",None,City,University_of_South_Alabama,containedInPlace,"Mobile,_Alabama",Q13572981,located in the administrative territorial entity,,Q12370416,P131
+2,University_of_South_Alabama,country,United_States,None,Country,University_of_South_Alabama,addressCountry,United_States,Q13572981,country,United States of America,Q30,P17
